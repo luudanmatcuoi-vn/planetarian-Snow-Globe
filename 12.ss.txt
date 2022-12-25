@@ -1,0 +1,568 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+<0000> none
+//<0000> none
+
+<0001> 
+//<0001> 
+
+<0002> none
+//<0002> none
+
+<0003> 
+//<0003> 
+
+<0004> none
+//<0004> none
+
+<0005> none
+//<0005> none
+
+<0006> 
+//<0006> 
+
+<0007> none
+//<0007> none
+
+<0008> 
+//<0008> 
+
+<0009> 
+//<0009> 
+
+<0010> Giám đốc
+//<0010> 館長
+
+<0011> 「Đào tạo người mới chẳng phải là công việc của em đó sao?」
+//<0011> 「新人教育は君の職務だ。当然だろ？」
+{0d1d} 73 // 0011
+
+<0012> 
+//<0012> 
+
+<0013> Satomi
+//<0013> 里美
+
+<0014> 「Đúng vậy. Đúng là như thế, nhưng đó không phải là "người" mới.」
+//<0014> 「そうです。そうですが、彼女は新“人”ではありません」
+{10f1} 73 // 0014
+
+<0015> Giám đốc
+//<0015> 館長
+
+<0016> 「Đúng là người mới còn gì. Chính em là người yêu cầu tuyển thêm \nthuyết trình viên còn gì.」
+//<0016> 「もちろん新人さ。だいたい、解説員を増やしてほしいと言ったのは君だぞ」
+{1203} 73 // 0016
+
+<0017> Giám đốc
+//<0017> 館長
+
+<0018> 「Tôi đã đáp ứng rồi đấy. Em còn không hài lòng chuyện gì nữa?」
+//<0018> 「私はそれを聞き入れた。何が不満だと言うのかね？」
+{1315} 73 // 0018
+
+<0019> 
+//<0019> 
+
+<0020> Satomi
+//<0020> 里美
+
+<0021> 「Đúng là em đã nói vậy, nhưng em cần người bình thường cơ...」
+//<0021> 「お言葉ですが、私が欲しいと言ったのは普通の……」
+{16e9} 73 // 0021
+
+<0022> Giám đốc
+//<0022> 館長
+
+<0023> 「Con bé có bình thường hay không còn tùy thuộc em dạy dỗ như thế \nnào.」
+//<0023> 「普通に使えるようになるかどうかは、君の教育次第さ」
+{17fb} 73 // 0023
+
+<0024> Giám đốc
+//<0024> 館長
+
+<0025> 「Trên đời làm gì có cái phù hợp ngay từ đầu. Dù là giày da hay áo \nvét thì cũng phải đi nhiều mặc nhiều mới thấy hợp được.」
+//<0025> 「最初から役立つものなど世の中にはない。革靴でも背広でも、身体に合うまで慣らしが必要なのは同じことだ」
+{190d} 73 // 0025
+
+<0026> 
+//<0026> 
+
+<0027> Satomi
+//<0027> 里美
+
+<0028> 「Nhưng mà giám đốc...」
+//<0028> 「ですが館長……」
+{1ce1} 73 // 0028
+
+<0029> Ngay từ lần đầu nghe tin sẽ đưa cô bé đó vào biên chế, Satomi đã \nphản đối hàng trăm lần bằng đủ thứ cách.
+//<0029> はじめて彼女を雇う話を聞いた時から、手を替え品を替え何百回と反対してきた。
+{1d6b} 73 // 0029
+// (手を替え品を替え tức là "làm nhiều cách khác nhau")
+
+<0030> Nhưng giờ thì muốn thay đổi cũng muộn rồi.
+//<0030> 今さら覆せるものではない。
+{1df5} 73 // 0030
+
+<0031> 
+//<0031> 
+
+<0032> Satomi
+//<0032> 里美
+
+<0033> (Biết rõ là vậy rồi, nhưng mà...)
+//<0033> （それはわかってる。けど……）
+{21c9} 73 // 0033
+
+<0034> Satomi
+//<0034> 里美
+
+<0035> (Mình vẫn có trách nhiệm của một trưởng ban thuyết trình, cũng như \nlòng kiêu hãnh vốn có của một chuyên gia trong lĩnh vực này.)
+//<0035> （こっちにだって解説主任としての責任と、何よりこの道のプロとしての誇りがあるもの）
+{22db} 73 // 0035
+
+<0036> Satomi
+//<0036> 里美
+
+<0037> (Đâu thể nào chỉ "À vậy ạ" một cái là xong chuyện được.)
+//<0037> （『はいそうですか』なんて、納得できるわけないじゃない）
+{23ed} 73 // 0037
+
+<0038> Giám đốc
+//<0038> 館長
+
+<0039> 「Haaa...」
+//<0039> 「はぁ……」
+{24ff} 73 // 0039
+
+<0040> Giám đốc thở dài, áp mu bàn tay phải lên bờ trán rộng của mình, đoạn tiếp lời.
+//<0040> 館長は溜息をつくと、幅広の額に右手を指し当てながら言った。
+{2589} 73 // 0040
+
+<0041> Giám đốc
+//<0041> 館長
+
+<0042> 「Kurahashi Satomi-kun」
+//<0042> 「クラハシサトミくん」
+{269b} 73 // 0042
+
+<0043> 
+//<0043> 
+
+<0044> Việc giám đốc gọi cả họ và tên cấp dưới đồng nghĩa với việc có tranh luận thêm cũng hoài công.
+//<0044> 彼がフルネームで部下を呼ぶのは、これ以上の議論は無用という意味に他ならない。
+{29e7} 73 // 0044
+
+<0045> Giám đốc
+//<0045> 館長
+
+<0046> 「Chúng ta không chỉ là nhân viên cung thiên văn, mà còn là \nnhân viên thời vụ của trung tâm bách hóa này.」
+//<0046> 「我々はプラネタリウムのスタッフであると同時に、このデパートの嘱託社員でもある」
+{2af9} 73 // 0046
+
+<0047> Giám đốc
+//<0047> 館長
+
+<0048> 「Nếu giúp cho thật nhiều người tận hưởng trời sao là sứ mệnh của \nchúng ta, thì cải thiện doanh thu cũng là sứ mệnh quan trọng chẳng kém. Em có hiểu không?」
+//<0048> 「多くの人に星空を楽しんでもらうのが我々の使命なら、より多くの収益を上げることも同様に使命だ。わかるね？」
+{2c0b} 73 // 0048
+
+<0049> 
+//<0049> 
+
+<0050> Satomi
+//<0050> 里美
+
+<0051> 「.....」
+//<0051> 「………」
+{2fdf} 73 // 0051
+
+<0052> Giờ mà nói "Em chẳng hiểu gì hết" thì chắc da mặt cô phải dày lắm.
+//<0052> わかりません、と言えるはずもない。
+{3069} 73 // 0052
+
+<0053> 『Làm việc tại đây khác với thuyết trình ở bảo tàng khoa học』. Đó \nlà những lời đầu tiên cô nhận được trong buổi phỏng vấn xin việc \nthời niên thiếu.
+//<0053> 『科学館で解説をするのとは違う』、それは彼女が１０代だった頃、入社面接で最初に聞かされた言葉だ。
+{30f3} 73 // 0053
+
+<0054> Lúc đó, giám đốc bảo tàng hẳn vẫn còn tin tưởng vào triển vọng của \ndự án khai thác vũ trụ và cung thiên văn, và phần tóc hói của ông \nvẫn còn che giấu được dễ dàng bằng cách sử dụng keo xịt và \nloại lược gỗ chăm sóc tóc thần kỳ.
+//<0054> あの時の館長はまだ、宇宙開拓とプラネタリウム館の洋々たる前途を信じていただろうし、その生え際の後退ぶりも、整髪料と絶妙な櫛さばきで隠しおおせるものだった。
+{317d} 73 // 0054
+// 櫛さばき thấy bảo là lược chăm sóc tóc gì đó, hơi khó tìm từ
+
+<0055> Giám đốc
+//<0055> 館長
+
+<0056> 「Đến giờ họp giao ban rồi. Nhờ em dẫn con bé tới tập trung ở quầy \nlễ tân nhé.」
+//<0056> 「さあ、朝礼の時間だ。彼女を連れて受付に集合したまえ」
+{328f} 73 // 0056
+
+<0057> Khoác lên khuôn mặt của một cấp trên nghiêm khắc, ông nói, rồi cứ \nthế bước ra khỏi phòng giám đốc mà chẳng thèm ngoảnh lại.
+//<0057> 厳格な上司の顔で言うと、彼はそのまま振り向きもせず、館長室を出て行った。
+{3457} 73 // 0057
+
+<0058> Bỏ lại trưởng ban thuyết trình... hay nhân viên thời vụ \nKurahashi Satomi một mình trong phòng.
+//<0058> 残されたのは、倉橋里美解説主任……あるいは倉橋里美嘱託社員ひとりだけだった。
+{34e1} 73 // 0058
+
+<0059> Không, để mà nói chính xác thì không phải "một mình".
+//<0059> いや、厳密にはひとりではない。
+{356b} 73 // 0059
+
+<0060> 
+//<0060> 
+
+<0061> Satomi
+//<0061> 里美
+
+<0062> 「...nhưng giám đốc ơi, con bé đâu phải con người cơ chứ?」
+//<0062> 「……でも館長、彼女は人ではないんですよ？」
+{39c7} 73 // 0062
+
+<0063> Không ai đáp lời cô cả.
+//<0063> しかし、その声に答える者はいない。
+{3a51} 73 // 0063
+
+<0064> 
+//<0064> 
+
+<0065> Satomi
+//<0065> 里美
+
+<0066> (Có khác nào đang diễn hề đâu.)
+//<0066> （なんだか、自分がとんでもない道化芝居を演じてるみたい）
+{3e25} 73 // 0066
+
+<0067> Satomi
+//<0067> 里美
+
+<0068> (À không... chính xác hơn thì phải là múa rối chứ nhỉ.)
+//<0068> （ううん……正しくは、人形芝居ね）
+{3f37} 73 // 0068
+
+<0069> Vừa hay, chiếc đồng hồ treo tường chỉ đúng 9 giờ sáng.
+//<0069> 壁時計が長針を進め、午前９時ちょうどを指した。
+{3fc1} 73 // 0069
+
+<0070> Ùng...
+//<0070> ぶうん……
+
+<0071> Âm thanh nho nhỏ của động cơ điện từ hao hao giống tiếng ong vo ve \nlàm cô hơi nhột tai.
+//<0071> 蜂の羽音のような、かすかな電磁モーターの響きが耳をくすぐった。
+{424e} 73 // 0071
+
+<0072> Sâu trong phòng giám đốc, một thứ hình người khác ngoài Satomi \nbắt đầu di chuyển.
+//<0072> 館長室の奥で、里美とは別の人影が動いた。
+{42d8} 73 // 0072
+
+<0073> 
+//<0073> サスペンド
+
+<0074> 
+
+<0075> Vừa thức dậy khỏi trạng thái tạm nghỉ, thứ đó từ từ nâng nửa thân \ntrên dậy khỏi chiếc ghế dài, thật dễ khiến người ta liên tưởng tới \nhình ảnh một con quỷ hút máu bò ra khỏi quan tài.
+//<0075> 休止状態から目覚めたばかりのそれは、棺桶から這い出る吸血鬼のごとき仕草で、寝椅子からごくゆっくりと上体を起こす。
+{44b7} 73 // 0075
+
+<0076> 
+//<0076> 
+
+<0077> Satomi
+//<0077> 里美
+
+<0078> (Giả như, con bé không có hình dạng thế này...)
+//<0078> （もしもこれが、こんな形をしてなかったら……）
+{490a} 73 // 0078
+
+<0079> Satomi lặp lại lời nghi vấn mà cô đã tự hỏi bản thân không biết bao nhiêu lần kể từ hồi mới nhìn thấy cô bé trong tập tài liệu.
+//<0079> 発表書類で彼女を最初に見て以来、幾度となく感じてきた疑問を、里美はもう一度繰り返す。
+{4994} 73 // 0079
+
+<0080> Satomi
+//<0080> 里美
+
+<0081> (...thì liệu mình có thể đối xử với nó bình tĩnh hơn không? Hay \nmình sẽ còn ghét con bé hơn nữa?)
+//<0081> （わたしはもっと冷静に対応できてるのかしら？　それとももっと、彼女たちのことを嫌悪してるのかしら？）
+{4aa6} 73 // 0081
+
+<0082> 
+//<0082> 
+
+<0083> Bộ khung người thấp phỏng theo hình dạng cơ thể trung bình của một \nngười con gái tầm 15-20 tuổi, được bao bọc trong bộ trang phục cách điệu dựa trên đồng phục lễ tân của Cửa hàng bách hóa Hanabishi.
+//<0083> １０代後半女性の平均的体型を模したという低身長型の筐体は、花菱デパートの受付制服を元にした特注のコスチュームに包まれている。
+
+<0084>  
+//<0084> ＦＬ
+
+<0085> 
+//<0085> 低身長型
+{4ef8} 3d // 0085
+
+<0086> 
+// 3 câu 83 84 85 86 gộp lại làm 1
+
+<0087> Hai đuôi tóc cô bé dài lắc lư, có tác dụng tản nhiệt và bảo vệ \nbộ phận xử lý dữ liệu phần đầu.
+//<0087> 頭部演算ユニットの放熱と保護を兼ねた、長いツーテールヘアがわずかに揺れる。
+{5007} 73 // 0087
+
+<0088> Hai đầu dây cáp được nối với đầu cắm ở tai trái.
+//<0088> 左耳のコネクタに２本のケーブルが繋がれている。
+{50c3} 73 // 0088
+
+<0089> Sau khi uốn xuống mặt sàn khoảng vài mét thì chúng được rút về cái
+//<0089> 床を何メートルかのたくった後、それは桐箪笥のように大げさな
+
+<0090> 
+//<0090> テレ
+
+<0091> 
+//<0091> 情報送
+{5215} 3d // 0091
+
+<0092> 
+//<0092> メーター
+
+<0093>  \nthiết bị truyền tải thông tin
+//<0093> 信装置
+{52d0} 3d // 0093
+
+<0094>  trông khoa trương y như loại tủ rương làm từ gỗ hông.
+//<0094> に吸い込まれる。
+{5323} 73 // 0094
+
+<0095> Trong vài tháng đầu, cô bé luôn phải ngồi đó kết nối dữ liệu gần như cả ngày để cung cấp cho nhà sản xuất những thông tin quý giá theo \nhợp đồng tiêu dùng.
+//<0095> 最初の数ヶ月は、彼女は一日の大半をそこに接続され、民生用実働機としての貴重なデータをメーカーに提供する契約になっている。
+{53ad} 73 // 0095
+
+<0096> Nói đơn giản hơn thì công việc đó tựa hồ một loại "của hồi môn" để \ncô bé có thể được "gả" về nơi này với mức giá hời.
+//<0096> つまりそれは、彼女をここに格安で嫁がせるための大げさな嫁入り道具のひとつというわけだ。
+{5437} 73 // 0096
+//Hai câu này khá là tối nghĩa, triệu hồi anh Min nhé <(")
+
+<0097> none
+//<0097> none
+
+<0098> 
+//<0098> 
+
+<0099> Cuối cùng, cô bé đã hoàn toàn đứng dậy được.
+//<0099> やがて、彼女は完全に立ちあがった。
+
+<0100> Cùng một cử chỉ như đang quay trên bàn xoay gốm, cô bé bất giác \nhướng về phía Satomi.
+//<0100> ろくろで回されたような仕草で、唐突に里美に向き直る。
+{5a50} 73 // 0100
+
+<0101> Rồi thì, cô duỗi thẳng các ngón từ cả hai tay ― vốn là
+//<0101> それから、両手の指――有機樹脂と軽合金の骨格を人工皮膚でコーティングした
+
+<0102> 
+//<0102> マニピュレーター
+
+<0103>  một bộ khung được chế tạo tinh xảo
+//<0103> 精密義指
+{5b70} 3d // 0103
+
+<0104>  từ nhựa hữu cơ và hợp kim nhẹ bọc trong da \nnhân tạo.
+//<0104> ――をぴんと伸ばし揃えた。
+{5bc3} 73 // 0104
+
+<0105> Yumemi
+//<0105> ゆめみ
+
+<0106> 「Buổi sáng tốt lành ạ.」
+//<0106> 「おはようございます」
+{5d2c} 73 // 0106
+
+<0107> Cô bé cất tiếng chào Satomi, với một chất giọng thiếu nữ hoàn hảo \nđến độ mất tự nhiên.
+//<0107> 美しい少女の声音、完璧すぎるほど完璧な声音で、彼女は里美に挨拶した。
+{5db6} 73 // 0107
+
+<0108> Hình ảnh của Satomi phản chiếu trong con ngươi làm từ nhựa quang học kia.
+//<0108> 光学樹脂の瞳が、里美の姿を映し込んでいる。
+{5e40} 73 // 0108
+
+<0109> Chúng thay đổi độ cong khi tải điện áp yếu, thoáng thấy mờ mờ như \nmàng dầu, khiến cô trông như đang mỉm cười.
+//<0109> 微弱な電圧負荷により曲率を変えるというそれは、油膜のようにうっすらと艶を帯び、微笑んでいるようにさえ見える。
+{5eca} 73 // 0109
+
+<0110> none
+//<0110> none
+
+<0111> 
+//<0111> 
+
+<0112> none
+//<0112> none
+
+<0113> none
+//<0113> none
+
+<0114> 
+//<0114> 
+
+<0115> none
+//<0115> none
+
+<0116> 
+//<0116> 
+
+<0117> none
+//<0117> none
+
+<0118> 
+//<0118> 
+
+<0119> none
+//<0119> none
+
+<0120> none
+//<0120> none
+
+<0121> 
+//<0121> 
+
+<0122> Satomi
+//<0122> 里美
+
+<0123> (Nếu có ai giới thiệu con bé này là con người, khéo có khi mình tin thật.)
+//<0123> （彼女のことを人間として紹介されてたら、きっと信じてたと思う）
+{679f} 73 // 0123
+
+<0124> none
+//<0124> none
+
+<0125> 
+//<0125> 
+
+<0126> Trên chiếc váy màu xanh biển rực rỡ có thêu một số chữ cái alphabet bằng chỉ phát quang.
+//<0126> 鮮やかな紺色のスカートには、いくつかのアルファベットが蓄光糸で刺繍されている。
+{6cca} 73 // 0126
+
+<0127> SC   PAGE5000Si/FL CAPELII
+//<0127> SC	PAGE5000Si/FL CAPELII
+{6d54} 73 // 0127
+
+<0128> Đó là tên của cô bé.
+//<0128> それが彼女の名前だった。
+
+<0129> Ít nhất, là trong thời điểm này.
+//<0129> 少なくとも、今この時点では。
+{6e68} 73 // 0129
+
+<0130> none
+//<0130> none
+
+<0131> 
+//<0131> 
+
+<0132> none
+//<0132> none
+
+<0133> 
+//<0133> 
+
+<0134> none
+//<0134> none
+
+<0135> none
+//<0135> none
+
+<0136> 
+//<0136> 
+
+<0137> none
+//<0137> none
+
+<0138> 
+//<0138> 
+
+<0139> none
+//<0139> none
+
+<0140> 
+//<0140> 
+
+<0141> none
+//<0141> none
+
+<0142> none
+//<0142> none
+
+<0143> 
+//<0143> 
+
+<0144> none
+//<0144> none
+
+<0145> 
+//<0145> 
+
+<0146> dummy
+//<0146> dummy
+
+<0147> bgm02
+//<0147> bgm02
+
+<0148> bg01
+//<0148> bg01
+
+<0149> bg10
+//<0149> bg10
+
+<0150> none
+//<0150> none
+
+<0151> se001_01
+//<0151> se001_01
+
+<0152> se001_02
+//<0152> se001_02
+
+<0153> bgm12
+//<0153> bgm12
+
+<0154> se002
+//<0154> se002
+
+<0155> se003
+//<0155> se003
+
+<0156> se004
+//<0156> se004
+
+<0157> none
+//<0157> none
+
+<0158> kuroe
+//<0158> kuroe
+
+<0159> none
+//<0159> none
+
+<0160> bg10
+//<0160> bg10
+
+<0161> none
+//<0161> none
+
+<0162> kuros
+//<0162> kuros
+
+<0163> kuroe
+//<0163> kuroe
+
+<0164> none
+//<0164> none
+
+<0165> bgm08
+//<0165> bgm08
+
+<0166> kurob
+//<0166> kurob
+
+<0167> none
+//<0167> none
+

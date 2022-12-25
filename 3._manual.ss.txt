@@ -1,0 +1,176 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+<0000> Hướng dẫn
+//<0000> マニュアル
+
+<0001> ■ Về chế độ văn bản
+//<0001> ■文章モードについて
+
+<0002> Tác phẩm này có hai chế độ văn bản. Một chế độ bấm cho phép đọc từng câu một khi theo dõi tác phẩm, và một chế độ vuốt cho phép theo dõi tác phẩm bằng cách cuộn.
+//<0002> 本作品には２つの文章モードがあります。演出をお楽しみ頂きながら文章単位で読み進めるタップモードと、文章をスクロールで読み進めるフリックモードです。
+
+<0003> Trạng thái ban đầu của bản hướng dẫn này được thể hiện ở chế độ vuốt. Vui lòng kiểm tra lại chế độ vận hành khi chơi thật.
+//<0003> 本マニュアルの初期状態はフリックモードで表示されています。実際に操作をして動作を確認してみて下さい。
+
+<0004> ■ Cách chuyển đổi từ chế độ vuốt sang chế độ bấm
+//<0004> ■フリックモードからタップモードに切り替える方法
+
+<0005> Vui lòng bấm vào văn bản.
+//<0005> 文章をタップして下さい。
+
+<0006> ■ Cách chuyển đổi từ chế độ bấm sang chế độ vuốt.
+//<0006> ■タップモードからフリックモードに切り替える方法
+
+<0007> Vui lòng sử dụng ngón tay chạm màn hình và lướt theo chiều ngang hoặc chiều dọc.
+//<0007> タッチして水平もしくは垂直に指を移動して下さい。
+
+<0008> ■ Cách chuyển đổi giữa hai chế độ viết ngang và viết dọc
+//<0008> ■文章の縦書き横書きを切り替える方法
+
+<0009> Chạm màn hình bằng hai đầu ngón tay và xoay một vòng.
+//<0009> ２本の指でタッチし、回転して下さい。
+
+<0010> ■ Danh sách những thao tác cơ bản
+//<0010> ■基本操作一覧
+
+<0011> ◆ Bấm (khi đọc trong chế độ bấm)
+//<0011> ◆タップ（タップモード時）
+
+<0012> Tiếp tục đọc. Sau khi chạm màn hình vui lòng không di chuyển mà ngay lập tức thả ra.
+//<0012> 文章を読み進めます。タッチした指を移動しないで離して下さい。
+
+<0013> ◆ Chạm và giữ (khi đọc trong chế độ bấm)
+//<0013> ◆タッチ長押し（タップモード時）
+
+<0014> Xóa bỏ văn bản. Có thể cuộn hình ảnh bằng cách di chuyển ngón tay.
+//<0014> 文章を消去します。そのまま指を動かすことで画像をスクロールできます。
+
+<0015> ◆ Zoom
+//<0015> ◆ピンチ
+
+<0016> Thay đổi cỡ chữ. Chạm màn hình bằng hai ngón tay rồi thu hẹp lại hoặc nới rộng ra.
+//<0016> 文字サイズを変更します。２本の指でタッチし、指の間を広げたり閉じたりして下さい。
+
+<0017> ◆ Xoay
+//<0017> ◆ロール
+
+<0018> Thay đổi chế độ văn bản giữa chiều ngang và chiều dọc. Chạm bằng hai ngón tay và xoay một vòng.
+//<0018> 文章の縦書きと横書きを変更します。２本の指でタッチし、回転して下さい。
+
+<0019> ◆ Lướt (khi đọc trong chế độ bấm)
+//<0019> ◆スライド（タップモード時）
+
+<0020> Chuyển đổi văn bản sang chế độ vuốt. Chạm và di chuyển ngón tay theo chiều ngang hoặc chiều dọc.
+//<0020> 文章モードをフリックモードに切り替えます。タッチして水平もしくは垂直に指を移動して下さい。
+
+<0021> ◆ Lướt (khi đọc trong chế độ vuốt)
+//<0021> ◆スライド（フリックモード時）
+
+<0022> Dùng để cuộn văn bản hoặc thay đổi văn bản giữa chiều ngang và chiều dọc. Chạm và di chuyển ngón tay theo chiều ngang hoặc chiều dọc.
+//<0022> 文章のスクロール、もしくは文章の縦書きと横書きを変更します。タッチして水平もしくは垂直に指を移動して下さい。
+
+<0023> ◆ Lựa chọn văn bản (khi đọc trong chế độ vuốt)
+//<0023> ◆文章選択（フリックモード時）
+
+<0024> Chuyển đổi văn bản sang chế độ click. Vui lòng bấm vào văn bản.
+//<0024> 文章モードをタップモードに切り替えます。文章をタップして下さい。
+
+<0025> ◆ Di chuyển cửa sổ (khi đọc trong chế độ click)
+//<0025> ◆ウィンドウの移動（タップモード時）
+
+<0026> Di chuyển cửa sổ chứa văn bản lên xuống trái phải. Nhấn vào cửa sổ và giữ như thế trong một giây.
+//<0026> 文章が表示されているウィンドウを上下左右のいずれかに移動します。ウィンドウを１秒間長押しして下さい。
+
+<0027> ◆ Xoay thiết bị
+//<0027> ◆機体を傾ける
+
+<0028> Xoay thiếu bị theo chiều dọc hoặc chiều ngang sẽ thay đổi trạng thái hiển thị sao cho phù hợp với bố cục màn hình.
+//<0028> 機体を縦向き、もしくは横向きに傾けると、画面レイアウトが適切な表示状態に変更されます。
+
+<0029> ■ Về các nút hệ thống
+//<0029> ■システムボタンについて
+
+<0030> Có những nút bấm nhỏ ở bốn góc màn hình, và bạn có thể sử dụng những chức năng được gán cho từng nút đó. (Ở phiên bản đầu chỉ có nút ở góc phải trên và trái dưới.)
+//<0030> 画面の四隅には小さなボタンがあり、各ボタンに登録された機能を呼び出す事ができます（※初期状態では、右上と左下にしかボタンがありません）。
+
+<0031> Việc gán chức năng cho từng nút đã được thiết lập sẵn từ cài đặt chung. (Nút ở góc phải trên chỉ được sử dụng để mở menu hệ thống, và những chức năng được gán không thể thay đổi được)
+//<0031> 機能の登録は環境設定から行います（※右上のボタンはシステムメニューの呼び出し専用となっており、登録を変更する事はできません）。
+
+<0032> ■ Về menu hệ thống
+//<0032> ■システムメニューについて
+
+<0033> Bấm vào nút hệ thống ở góc phải trên màn hình để mở menu hệ thống.
+//<0033> 画面の右上にあるシステムボタンを押すとシステムメニューが開きます。
+
+<0034> Nếu muốn hủy hiện menu hệ thống (muốn đóng lại vì không làm gì), vui lòng bấm vào bất kỳ đâu trừ nút bấm ấy.
+//<0034> システムメニューをキャンセルしたい（何もしないで閉じたい）場合は、ボタン以外の部分をタップして下さい。
+
+<0035> ◆ Xóa văn bản
+//<0035> ◆文章を消去する
+
+<0036> Tạm thời xóa văn bản. Bấm một lần nữa để trở lại trạng thái ban đầu.
+//<0036> 一時的に文章を消去します。タップすると元の状態に戻ります。
+
+<0037> ◆ Tua nhanh
+//<0037> ◆早送りを開始する
+
+<0038> Dùng để tua nhanh việc hiển thị văn bản. Bấm một lần nữa để ngừng tua. Đây là một chức năng của chế độ bấm.
+//<0038> 文章を早送りできます。タップすると早送りを停止します。タップモード用の機能です。
+
+<0039> ◆ Bắt đầu (dừng) chế độ tự động
+//<0039> ◆オートモードを開始（停止）する
+
+<0040> Chức năng cho phép tự động chạy văn bản. Có thể thay đổi tốc độ chạy tại phần cài đặt chung. Đây là một chức năng của chế độ bấm.
+//<0040> 文章を自動で読み進める機能です。環境設定から読み進める速度を変更できます。タップモード用の機能です。
+
+<0041> ◆ Trở lại lựa chọn trước
+//<0041> ◆前の選択肢に戻る
+
+<0042> Cho phép trở lại lựa chọn trước.
+//<0042> １つ前の選択肢に戻ります。
+
+<0043> ◆ Dấu trang
+//<0043> ◆しおり
+
+<0044> Mở menu dấu trang.
+//<0044> しおりメニューを開きます。
+
+<0045> ◆ Cài đặt chung
+//<0045> ◆環境設定
+
+<0046> Mở phần menu cài đặt chung.
+//<0046> 環境設定メニューを開きます。
+
+<0047> ◆ Trở lại tiêu đề
+//<0047> ◆タイトルに戻る
+
+<0048> Quay trở lại tiêu đề.
+//<0048> タイトルに戻ります。
+
+<0049> ◆ Hủy
+//<0049> ◆キャンセル
+
+<0050> Đóng lại menu hệ thống.
+//<0050> システムメニューを閉じます。
+
+<0051> ■ Thông báo giấy phép
+//<0051> ■ライセンス表記
+
+<0052> Ứng dụng này sử dụng những công nghệ và thư việc sau.
+//<0052> 本アプリケーションは、以下の技術およびライブラリを使用しています。
+
+<0053> ◆
+//<0053> ◆
+
+<0054> Ogg Vorbis
+//<0054> Ogg Vorbis
+
+<0055> Copyright (c) 2002-2008 Xiph.org Foundation
+//<0055> Copyright (c) 2002-2008 Xiph.org Foundation
+
+<0056> dummy
+//<0056> dummy
+

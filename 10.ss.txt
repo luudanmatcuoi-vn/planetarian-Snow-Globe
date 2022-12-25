@@ -1,0 +1,74 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> none
+<0000> none
+
+//<0001> 
+<0001> 
+
+//<0002> none
+<0002> none
+
+//<0003> none
+<0003> none
+
+//<0004> 
+<0004> 
+
+//<0005> none
+<0005> none
+
+//<0006> 
+<0006> 
+
+//<0007> none
+<0007> none
+
+//<0008> 
+<0008> 
+
+//<0009> none
+<0009> none
+
+//<0010> 
+<0010> 
+
+//<0011> none
+<0011> none
+
+//<0012> none
+<0012> none
+
+//<0013> 
+<0013> 
+
+//<0014> none
+<0014> none
+
+//<0015> 
+<0015> 
+
+//<0016> dummy
+<0016> dummy
+
+//<0017> bgm01
+<0017> bgm01
+
+//<0018> bg34
+<0018> bg34
+
+//<0019> none
+<0019> none
+
+//<0020> kuros
+<0020> kuros
+
+//<0021> kurob
+<0021> kurob
+
+//<0022> none
+<0022> none
+

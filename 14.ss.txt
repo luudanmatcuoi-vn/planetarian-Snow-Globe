@@ -1,0 +1,945 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+<0000> none
+//<0000> none
+
+<0001> 
+//<0001> 
+
+<0002> none
+//<0002> none
+
+<0003> 
+//<0003> 
+
+<0004> none
+//<0004> none
+
+<0005> none
+//<0005> none
+
+<0006> 
+//<0006> 
+
+<0007> none
+//<0007> none
+
+<0008> 
+//<0008> 
+
+<0009> 
+//<0009> 
+
+<0010> Satomi
+//<0010> 里美
+
+<0011> 「Quả nhiên là bị hỏng hóc ở đâu rồi đấy nhỉ...」
+//<0011> 「やっぱり、壊れちゃったのかしら……」
+{0d1d} 73 // 0011
+
+<0012> 
+//<0012> 
+
+<0013> Trút một tiếng thở dài, Satomi nâng cốc.
+//<0013> ふうと溜息し、里美はカップを持ち上げた。
+{10b6} 73 // 0013
+
+<0014> Trong phòng máy tính này không được phép ăn uống, nhưng do chính \ngiám đốc là người đã quyết định việc này lại luôn uống cà phê trong đó nên thành ra cô cũng chẳng ngại nữa.
+//<0014> 電算室は飲食禁止だが、それを決めた館長御自らが所かまわずコーヒーを所望するのだから世話はない。
+{118d} 73 // 0014
+
+<0015> Chỉ có Yumemi là tuân thủ điều luật này.
+//<0015> 遵守しているのは、それこそゆめみぐらいだ。
+{1217} 73 // 0015
+
+<0016> 
+//<0016> 
+
+<0017> Yumemi
+//<0017> ゆめみ
+
+<0018> 「Chị thấy hương vị thế nào ạ?」
+//<0018> 「お味はいかがでしょう？」
+{16bb} 73 // 0018
+
+<0019> Yumemi hỏi bằng giọng nhã nhặn, trong khi vẫn kết nối với thiết bị \nđầu cuối bằng cáp dữ liệu.
+//<0019> データケーブルで端末と繋がれたまま、ゆめみはのほほんと問いかけてくる。
+{1745} 73 // 0019
+
+<0020> Cô bé này mới khi nãy còn đang vui vẻ bưng bê cà phê, giờ đây đã bị lệnh cho phải ngồi xuống ghế và chuyển sang chế độ sửa lỗi.
+//<0020> さっきいそいそとコーヒーを運んできたところを拉致し、そのまま椅子に座らせてデバッグモード移行を命じた。
+{17cf} 73 // 0020
+
+<0021> Chẳng rõ cô ấy có hiểu được tính nguy cấp khi bị thẩm vấn về việc tự ý rời khỏi nơi làm việc không nữa...
+//<0021> 職場放棄を査問されている危機的状況を理解しているのかいないのか……
+{1859} 73 // 0021
+
+<0022> 
+//<0022> 
+
+<0023> Satomi
+//<0023> 里美
+
+<0024> 「......」
+//<0024> 「………」
+{1c2d} 73 // 0024
+
+<0025> Satomi nhâm nhi ly cà phê.
+//<0025> 里美はコーヒーを一口すすってみる。
+
+<0026> Mùi vị vẫn như thường lệ.
+//<0026> 味はいつも通りだった。
+{1d41} 73 // 0026
+
+<0027> Cà phê rang kiểu Pháp thương mại được pha kỳ công, hai muỗng đường, không phần kem cho Satomi.
+//<0027> 丹精に淹れた業務用のフレンチロースト、砂糖は里美用に２杯、クリームポーションはなし。
+{1dcb} 73 // 0027
+
+<0028> 
+//<0028> 
+
+<0029> Satomi
+//<0029> 里美
+
+<0030> (Xem chừng không có vấn đề gì.)
+//<0030> （別におかしなところはないみたいね）
+{219f} 73 // 0030
+
+<0031> 
+//<0031> 
+
+<0032> Satomi
+//<0032> 里美
+
+<0033> 「Ngon lắm. Cảm ơn em.」
+//<0033> 「美味しいわ、ありがと」
+{2573} 73 // 0033
+
+<0034> 
+//<0034> 
+
+<0035> Yumemi
+//<0035> ゆめみ
+
+<0036> 「Thật vui khi được chị khen ngợi như vậy.」
+//<0036> 「お褒めいただき、とても嬉しいです」
+{2a17} 73 // 0036
+
+<0037> 
+//<0037> 
+
+<0038> Yumemi mỉm cười, khẽ híp đôi mắt to tròn lại.
+//<0038> 大きな瞳を絞り、ゆめみはにこっと微笑む。
+{2d63} 73 // 0038
+
+<0039> 
+//<0039> 
+
+<0040> Yumemi
+//<0040> ゆめみ
+
+<0041> 「Hôm nay, trời hơi trở lạnh, nên tôi đã lưu tâm đến nhiệt độ của \nnước.」
+//<0041> 「今日はやや肌寒い陽気ですので、お湯の温度管理に気をつかいました」
+{3207} 73 // 0041
+
+<0042> 
+//<0042> 
+
+<0043> Yumemi
+//<0043> ゆめみ
+
+<0044> 「Giấy lọc cà phê vẫn còn khá nhiều trong kho, nhưng hạt cà phê thì chỉ còn một tuần nữa là hết hạn...」
+//<0044> 「ペーパーフィルターの在庫は充分ですが、コーヒー豆の賞味期限まで一週間を切りましたので……」
+{36ab} 73 // 0044
+
+<0045> Vẫn như mọi khi, huyên thuyên đủ thứ chuyện.
+//<0045> いつもと変わらない、際限ないお喋り。
+{3735} 73 // 0045
+
+<0046> 
+//<0046> 
+
+<0047> Satomi
+//<0047> 里美
+
+<0048> (Quả nhiên là trông con bé không có gì bất thường...)
+//<0048> （やっぱり、調子が悪いようには見えないのよね……）
+{3b09} 73 // 0048
+
+<0049> none
+//<0049> none
+
+<0050> 
+//<0050> 
+
+<0051> Ngồi cạnh cô ấy, đồng nghiệp Mikajima Gorou đang chăm chú nhìn \nmàn hình kiểu cũ, tay cầm cốc mà bên trong hẳn là cà phê đen pha \nloãng.
+//<0051> 隣では、同僚の三ヶ島吾朗がマグカップ――それは薄めのブラックコーヒーのはずだ――を片手に、旧式の平面モニターを覗き込んでいる。
+{3fd0} 73 // 0051
+
+<0052> Mười năm trước, anh ta được điều chuyển công tác từ phía nhà sản \nxuất để giám hộ Yumemi ― lúc ấy hẵng còn chưa thạo việc, một người ngoài "ở rể" tại nơi này.
+//<0052> １０年前、当時まだ使い物にならなかったゆめみのお守り役としてメーカーから出向してきて、そのままここに『婿入り』してしまった変わり種だ。
+{405a} 73 // 0052
+
+<0053> Dù năng lực của anh ta với tư cách kỹ sư robot là không thể phủ nhận, song lại hay có thói tin tưởng thái quá vào đối tượng cần bảo trì.
+//<0053> ロボット技術者としての腕はたしかだが、整備するべき対象を過信しすぎるきらいがある。
+{40e4} 73 // 0053
+
+<0054> Gorou
+//<0054> 吾朗
+
+<0055> 「Từ những triệu chứng chị vừa nói thì tôi nghĩ giờ lỗi sẽ không \nphát sinh nữa đâu.」
+//<0055> 「症状を聞く限りでは、今さら出る不具合とは思えないんですけどねえ」
+{4243} 73 // 0055
+
+<0056> Anh ta lẩm nhẩm vô nghĩa trong lúc lướt qua màn hình hiển thị \nbáo cáo hoạt động chi tiết.
+//<0056> 稼働記録の詳細画面をスクロールさせながら、不思議そうにつぶやいた。
+
+<0057> Hẳn phải có báo cáo về mô típ hành vi của Yumemi từ đêm qua.
+//<0057> そこには昨夕のゆめみの行動パターンがあまさず網羅されているはずだ。
+{4357} 73 // 0057
+
+<0058> 
+//<0058> 
+
+<0059> Yumemi
+//<0059> ゆめみ
+
+<0060> 「Vâng. Theo như tôi nhận thức được thì không hề có lỗi nào cả.」
+//<0060> 「はい。わたしが把握する限りでは、いかなる不具合も認められません」
+{4848} 73 // 0060
+
+<0061> Nở một nụ cười, Yumemi khẳng định mà chẳng hề có lấy một chút sức \nthuyết phục.
+//<0061> にこにこと笑いながら、ゆめみも説得力皆無の太鼓判を押す。
+{48d2} 73 // 0061
+//Nguồn: trust me bro <(")
+
+<0062> 
+//<0062> 
+
+<0063> Satomi
+//<0063> 里美
+
+<0064> 「Nào, ngày xưaaa chả có một vụ còn gì. Em chỉ đường cho một cụ bà \nxong rồi tự ý đi ra ngoài luôn ấy.」
+//<0064> 「ほら、ず～っと前にあったでしょ。おばあさんの道案内して勝手に出てっちゃったこと」
+{4ca6} 73 // 0064
+
+<0065> 
+//<0065> 
+
+<0066> Yumemi
+//<0066> ゆめみ
+
+<0067> 「Vâng. Khi ấy quả thật là khó khăn lắm thay.」
+//<0067> 「はい。あの時はとても大変でした」
+{514a} 73 // 0067
+
+<0068> 
+//<0068> 
+
+<0069> Yumemi
+//<0069> ゆめみ
+
+<0070> 「Vừa hay tôi đang đứng trước cửa chính mời chào khách và phân phát tờ rơi cho buổi triển lãm đặc biệt của trung tâm bách hóa \nHanabishi...」
+//<0070> 「わたしが表口前で呼び込み業務及び花菱デパート特産展チラシ配布業務に従事していましたところ……」
+{55ee} 73 // 0070
+
+<0071> 
+//<0071> 
+
+<0072> Gorou
+//<0072> 吾朗
+
+<0073> 「Tôi đã chứng minh là điều ấy chỉ xảy ra dưới những điều kiện \nvô cùng hạn chế, và hiện tại việc kiểm tra những hành vi \nbất thường cũng dần nghiêm ngặt hơn rồi nên...」
+//<0073> 「あれはものすごく限定された条件下でないと起こらないと立証されてますし、今は例外行動チェックが厳しくなってますから」
+{5a6d} 73 // 0073
+
+<0074> Gorou
+//<0074> 吾朗
+
+<0075> 「Không thế thì một cỗ máy bán độc lập thiếu bộ kiểm soát ý chí từ \nxa có lẽ đã bị crack Turing và bán bộ phận tại nơi nào đó ở \nNam Mỹ rồi.」
+//<0075> 「そうでなかったら、今どき遠隔頭脳もない半独立稼働機なんて、チューリングクラックかけられて南米あたりで部品売りされてますって」
+{5b7f} 73 // 0075
+
+<0076> 
+//<0076> 
+
+<0077> Satomi
+//<0077> 里美
+
+<0078> 「Bớt nói gở đi hộ cái...」
+//<0078> 「やなこと言わないでよね……」
+{5f53} 73 // 0078
+
+<0079> Satomi biết, rằng những vụ trộm robot dân sinh gần đây xảy ra ngày \ncàng thường xuyên hơn.
+//<0079> 昨今、民生用ロボットの盗難事件が頻発しているのは里美も知っている。
+{5fdd} 73 // 0079
+
+<0080> Dù vậy, Yumemi chắc không thể lọt vào tầm ngắm của lũ trộm được.
+//<0080> だが、そういう手合いにとって、ゆめみはもう魅力的な対象ではないはずだ。
+{6067} 73 // 0080
+
+<0081> 
+//<0081> 
+
+<0082> Gorou
+//<0082> 吾朗
+
+<0083> 「Ừ thì, tôi không chắc có ai có ý định bắt cóc con bé không, cơ mà...」
+//<0083> 「まあたしかに、だれかが誘拐を目論んだならわからないでもないんですけど……」
+{643b} 73 // 0083
+
+<0084> Gorou nói, đoạn gõ bàn phím và mở một số video.
+//<0084> 吾朗は言いながらキーボードを操作し、いくつかの動画を表示させる。
+{6512} 73 // 0084
+// Câu này ko biết dịch mềm ntn
+
+<0085> Gorou
+//<0085> 吾朗
+
+<0086> 「Trên đường đi con bé đã chụp ngẫu nhiên sáu tấm ảnh đa chiều, \nnhưng chẳng có cái nào trông đáng ngờ cả. Tất cả đều đúng y như \nnhững gì được ghi chép lại.」
+//<0086> 「道すがらホロスナップをランダムで６回撮影しているものの、不審なところは一切なし。歩行経路も自己申告とぴったり同じ」
+{6671} 73 // 0086
+
+<0087> Gorou
+//<0087> 吾朗
+
+<0088> 「Danh sách mệnh lệnh vẫn được xử lý theo đúng quy trình, không thấy có dấu hiệu bị ngắt quãng bởi những hành động ngoài công việc. \nCũng chẳng có mâu thuẫn nào giữa kho lưu trữ dữ liệu với \nbộ nhớ chính...」
+//<0088> 「命令スタックは全部通常通り処理されているし、業務外行動の割り込みも認められず。データアーカイブと本体記憶の矛盾もなし……」
+{6783} 73 // 0088
+
+<0089> 
+//<0089> 
+
+<0090> Yumemi
+//<0090> ゆめみ
+
+<0091> 「Thưa, cho phép tôi được ngắt lời ạ.」
+//<0091> 「あの、お取り込み中大変申し訳ないのですが」
+{6c27} 73 // 0091
+
+<0092> Thế rồi, đối tượng phân tích bắt đầu mở miệng, nghe đầy áy náy.
+//<0092> と、当の解析対象がすまなそうに口を挟んだ。
+{6cb1} 73 // 0092
+
+<0093> 
+//<0093> 
+
+<0094> Yumemi
+//<0094> ゆめみ
+
+<0095> 「Giờ đã là 3:40 chiều.」
+//<0095> 「ただ今午後３時４０分です」
+{7155} 73 // 0095
+
+<0096> 
+//<0096> 
+
+<0097> Yumemi
+//<0097> ゆめみ
+
+<0098> 「Buổi thuyết trình hôm nay lúc 4 giờ do tôi đảm trách. Nếu không \nphiền, cho phép tôi trở lại với vị trí làm việc của mình ạ.」
+//<0098> 「本日午後４時からの投影における解説担当は、わたしとなっていますので、差し支えなければそろそろ持ち場に戻るべきかと考えます」
+{75f9} 73 // 0098
+
+<0099> 
+//<0099> 
+
+<0100> Satomi
+//<0100> 里美
+
+<0101> 「À, phải rồi ha...」
+//<0101> 「あ、そっか……」
+{79cd} 73 // 0101
+
+<0102> 
+//<0102> 
+
+<0103> Satomi liếc đồng hồ treo tường rồi lại hướng về Yumemi.
+//<0103> 里美は壁時計をちらりと見て、それからもう一度ゆめみのことを見る。
+{7dc4} 73 // 0103
+
+<0104> Cô bé nhìn Satomi và Gorou bằng ánh mắt không thể dùng từ ngữ nào \nkhác để miêu tả ngoài ngây thơ vô tội.
+//<0104> 邪心ない、としか形容しようのない眼差しで、里美たちのことを窺っている。
+{7e4e} 73 // 0104
+
+<0105> Mặc dù vẫn hơi đáng dè chừng, nhưng chắc chắn cô bé sẽ không \ntấn công khách hàng.
+//<0105> 不安要素はあるものの、さすがに客を襲うことだけはないだろう。
+{7ed8} 73 // 0105
+
+<0106> 
+//<0106> 
+
+<0107> Satomi
+//<0107> 里美
+
+<0108> 「Được rồi, em trở lại với công việc đi.」
+//<0108> 「わかったわ。通常業務に戻ってちょうだい」
+{82ac} 73 // 0108
+
+<0109> 
+//<0109> 
+
+<0110> Yumemi
+//<0110> ゆめみ
+
+<0111> 「Vâng, tôi rõ rồi ạ.」
+//<0111> 「はい、わかりました」
+{8750} 73 // 0111
+
+<0112> none
+//<0112> none
+
+<0113> 
+//<0113> 
+
+<0114> Cô nhẹ nhàng tháo dây cáp nối trên ngón tay và rời khỏi ghế.
+//<0114> 自分の指でいそいそとケーブルを外し、椅子から立ちあがる。
+{8c64} 73 // 0114
+
+<0115> 
+//<0115> 
+
+<0116> Yumemi
+//<0116> ゆめみ
+
+<0117> 「Giờ thì, tôi xin phép ạ.」
+//<0117> 「それでは、失礼します」
+{914f} 73 // 0117
+
+<0118> none
+//<0118> none
+
+<0119> 
+//<0119> 
+
+<0120> Cô cúi người lễ phép, rồi rời khỏi phòng máy tính.
+//<0120> ぺこりとお辞儀を残し、電算室を出ていった。
+{9663} 73 // 0120
+
+<0121> Gorou
+//<0121> 吾朗
+
+<0122> 「Tôi có nên nói lại chuyện này với giám đốc không?」
+//<0122> 「館長に報告、どうします？」
+{980f} 73 // 0122
+
+<0123> Gorou vừa hỏi vừa vươn vai trên chiếc ghế xoay cọt kẹt.
+//<0123> 回転椅子を軋ませながら伸びをして、吾朗が訊いてきた。
+{9899} 73 // 0123
+
+<0124> 
+//<0124> 
+
+<0125> Satomi
+//<0125> 里美
+
+<0126> 「Cứ theo dõi thêm một thời gian nữa đã. Chẳng mấy khi được đi nước ngoài như thế, tôi không muốn anh ta phải lo lắng nhiều.」
+//<0126> 「もうちょっと様子を見ましょう。せっかくの海外視察なんだから、余計な心配させたくないでしょ？」
+{9cba} 73 // 0126
+
+<0127> Gorou
+//<0127> 吾朗
+
+<0128> 「Vậy tức là, chị gà đây muốn vọc niêu tôm nhân lúc chủ nhà đi vắng chứ gì?」
+//<0128> 「要は、鬼のいぬ間にもう少し羽を伸ばしていたい、と」
+{9dcc} 73 // 0128
+
+<0129> 
+//<0129> 
+
+<0130> Satomi
+//<0130> 里美
+
+<0131> 「Anh giai mà nói ngon nói ngọt với mấy ông lớn bên kia rồi mang một mẫu Zeiss mới về làm quà thì hay nhỉ.」
+//<0131> 「せいぜい向こうのお偉方にお愛想振りまいて、ツァイスの新型ぐらいお土産に持ってきてくれればいいんだけど」
+{a1a0} 73 // 0131
+
+<0132> Gorou
+//<0132> 吾朗
+
+<0133> 「Được thế đã phúc. Tự cái giới kinh doanh này đã sống dở chết dở \nrồi.」
+//<0133> 「無理ですよ。この業界自体、今となっては青息吐息なんですから」
+{a2b2} 73 // 0133
+
+<0134> 
+//<0134> 
+
+<0135> Satomi
+//<0135> 里美
+
+<0136> 「Cũng phải...」
+//<0136> 「そうねえ……」
+{a686} 73 // 0136
+
+<0137> Hai người lại thở dài.
+//<0137> ふたり合わせてまた溜息をつく。
+
+<0138> 
+//<0138> 
+
+<0139> Cửa sổ góc màn hình máy tính hiển thị doanh số hôm nay.
+//<0139> モニターの端に本日の営業速報ウィンドウがある。
+{aa5c} 73 // 0139
+
+<0140> 0 suất đặt trước, 0 khách hàng trên tổng số 184 ghế ngồi.
+//<0140> 曰く――１８４座席中予約０、観客０。
+{aae6} 73 // 0140
+
+<0141> Suất chiếu đầu tiên vào ngày thường sẽ luôn ít khách, và khi không \ncó khách thì người mới có thể tận dụng thời gian ấy để luyện tập \nthuyết trình thủ công.
+//<0141> 平日の初回投影はどうしても客入りが悪くなるし、客がいないならいないで新人の手動投影練習に当てられる。
+{ab70} 73 // 0141
+
+<0142> Dẫu biết là chẳng còn cách nào khác, nhưng quả nhiên là cô cũng \nkhông giữ được bình tĩnh cho nổi.
+//<0142> 仕方がないとは思うものの、さすがに平静ではいられない。
+{abfa} 73 // 0142
+
+<0143> Satomi nhớ về ngày xưa, khi cô nỗ lực trở thành người thuyết trình \nthiên văn.
+//<0143> プラネタリウム解説員を目指して奔走した頃のことを、里美は思い起こす。
+{ac84} 73 // 0143
+
+<0144> none
+//<0144> none
+
+<0145> 
+//<0145> 
+
+<0146> none
+//<0146> none
+
+<0147> 
+//<0147> 
+
+<0148> none
+//<0148> none
+
+<0149> none
+//<0149> none
+
+<0150> 
+//<0150> 
+
+<0151> none
+//<0151> none
+
+<0152> 
+//<0152> 
+
+<0153> none
+//<0153> none
+
+<0154> 
+//<0154> 
+
+<0155> none
+//<0155> none
+
+<0156> 
+//<0156> 
+
+<0157> Satomi
+//<0157> 里美
+
+<0158> (Khoảnh khắc hào hứng, cuồng nhiệt khi con người lần đầu đặt chân \nlên Sao Hỏa.)
+//<0158> （人類がはじめて火星の土を踏んだ、わくわくするような熱気と狂乱）
+{bbee} 73 // 0158
+Satomi
+<0159> 里美
+//<0159> 里美
+
+<0160> (Khoảnh khắc nhân loại cùng đồng lòng hướng về vũ trụ.)
+//<0160> （人々はこぞって宇宙に目をやった）
+{bd32} 73 // 0160
+
+<0161> Satomi
+//<0161> 里美
+
+<0162> (Thời kỳ kính viễn vọng và cung thiên văn tại gia bán đắt như \ntôm tươi.)
+//<0162> （天体望遠鏡やホームプラネタリウムが飛ぶように売れた）
+{be44} 73 // 0162
+
+<0163> Satomi
+//<0163> 里美
+
+<0164> (Thời kỳ mà con người có thể hồn nhiên mơ mộng, rằng bản thân đủ \nnăng lực đi tới bất kỳ đâu.)
+//<0164> （人類はどこまででも遠くに行ける、無邪気にそう夢見ることができた）
+{bf56} 73 // 0164
+
+<0165> Satomi
+//<0165> 里美
+
+<0166> (Cung thiên văn này được dựng lên giữa thời kỳ xô bồ ấy.)
+//<0166> （このプラネタリウム館自体、ある意味そのどさくさで造られたようなものだもの）
+{c068} 73 // 0166
+
+<0167> Satomi
+//<0167> 里美
+
+<0168> (Nhưng những năm tháng bùng nổ vũ trụ kia đã là quá khứ rồi.)
+//<0168> （でも、宇宙ブームも今は昔）
+{c17a} 73 // 0168
+
+<0169> none
+//<0169> none
+
+<0170> 
+//<0170> 
+
+<0171> Satomi
+//<0171> 里美
+
+<0172> (Khi phi hành đoàn trở về mặt đất, mọi người chuyển dần từ tán dương sang thất vọng.)
+//<0172> （やがて探査機の乗員が地球に帰還した時、人々の声は賞賛から失望に変わった）
+{c743} 73 // 0172
+
+<0173> Satomi
+//<0173> 里美
+
+<0174> (Người ta phát hiện ra rằng, trên đường trở về từ Sao Hỏa, đã có hai người thiệt mạng trong một sự cố chốt gió.)
+//<0174> （火星からの帰路、エアロックの事故によって２名のクルーが命を落としていたことが発覚した）
+{c855} 73 // 0174
+
+<0175> Satomi
+//<0175> 里美
+
+<0176> (Các thành viên khác cũng tổn thương não nghiêm trọng do tiếp xúc \nlâu dài với bức xạ vũ trụ...)
+//<0176> （他のクルーたちも、長期間宇宙線に曝されたことで深刻な脳障害を患っていた……）
+{c967} 73 // 0176
+
+<0177> Satomi
+//<0177> 里美
+
+<0178> (Cả Trái Đất như bị dội một gáo nước lạnh.)
+//<0178> （地球全体が冷や水を浴びせられたようになった）
+{ca79} 73 // 0178
+
+<0179> Satomi
+//<0179> 里美
+
+<0180> (Bóng tối của vực thẳm mà nhân loại vẫn chưa thể chạm tới, thật đen tối và đáng sợ...)
+//<0180> （人類が未だ行き着いたことのない深淵の闇は、それほどまでに暗く、恐ろしいものなんだって……）
+{cb8b} 73 // 0180
+
+<0181> none
+//<0181> none
+
+<0182> 
+//<0182> 
+
+<0183> none
+//<0183> none
+
+<0184> 
+//<0184> 
+
+<0185> none
+//<0185> none
+
+<0186> none
+//<0186> none
+
+<0187> 
+//<0187> 
+
+<0188> none
+//<0188> none
+
+<0189> 
+//<0189> 
+
+<0190> none
+//<0190> none
+
+<0191> 
+//<0191> 
+
+<0192> none
+//<0192> none
+
+<0193> 
+//<0193> 
+
+<0194> none
+//<0194> none
+
+<0195> none
+//<0195> none
+
+<0196> 
+//<0196> 
+
+<0197> none
+//<0197> none
+
+<0198> 
+//<0198> 
+
+<0199> Kể cả chương trình thám hiểm không gian mà ai cũng thấy cần thiết vì là cứu cánh cuối cùng cho nạn bùng nổ dân số và cạn kiệt tài nguyên cũng bị đình chỉ sau khi xây dựng hai thành phố trên Mặt Trăng.
+//<0199> 人口爆発と資源枯渇を解決する唯一の手段として、だれもが必要と認める宇宙開拓計画でさえ、月面都市を二箇所建設した時点で停滞を強いられている。
+{db56} 73 // 0199
+
+<0200> Tất cả những cuộc thám hiểm có người lái đều đã bị ngừng lại, và cả kế hoạch khai phá bên ngoài vũ trụ bằng máy bay không người lái cũng không có triển vọng mấy.
+//<0200> 有人探査は全て凍結され、無人ポッドによる外宇宙探査計画も、実行の目処は立っていない。
+{dbe0} 73 // 0200
+
+<0201> Trên hết...
+//<0201> この上……
+{dc6a} 73 // 0201
+
+<0202> 
+//<0202> 
+
+<0203> Satomi
+//<0203> 里美
+
+<0204> (Những người có thể dành tình yêu cho các vì sao mô phỏng đâu cả rồi?)
+//<0204> （まがいものの星を愛でる余裕を持つ人たちが、どこにいるのかしら？）
+{e03e} 73 // 0204
+
+<0205> Ngay cả những bảo tàng khoa học đã lắp đặt máy chiếu thế hệ mới và \nchiếu lên loạt chương trình được trau chuốt tỉ mỉ cũng không tránh \nkhỏi khó khăn.
+//<0205> 新型の投影機を導入し、凝りに凝ったプログラムを流している科学館でさえ、苦戦を強いられているのだ。
+{e0c8} 73 // 0205
+
+<0206> Thật kỳ diệu khi cung thiên văn thuần thương mại này vẫn có thể hoạt động mà không có khoản trợ cấp giáo dục nào.
+//<0206> 教育助成金のない純商業ベースのプラネタリウムなんて、存在するのが奇跡とさえ言える。
+{e152} 73 // 0206
+
+<0207> Để thoát khỏi hoàn cảnh bế tắc, giám đốc đã cố gắng thực hiện một kế hoạch cải tử hoàn sinh, đó chính là robot thuyết trình viên tự hành đầu tiên trên thế giới ― Hoshino Yumemi, dù vậy...
+//<0207> そんな窮状を打開するべく、館長が打った起死回生の一手――それが世界初の自律型ロボット解説員、ほしのゆめみだった、のだが……
+{e1dc} 73 // 0207
+
+<0208> 
+//<0208> 
+
+<0209> Satomi
+//<0209> 里美
+
+<0210> 「...Thôi không nên nghĩ nhiều về cái tình trạng này nữa. Khách hàng sẽ chạy mất dép cho coi.」
+//<0210> 「……景気が悪いことは考えないようにしましょう。お客が逃げちゃう」
+{e605} 73 // 0210
+
+<0211> Gorou
+//<0211> 吾朗
+
+<0212> 「Tôi biết rồi.」
+//<0212> 「了解です」
+{e717} 73 // 0212
+
+<0213> Hai người nhìn nhau và nói.
+//<0213> どちらからともなく顔を見合わせ、言う。
+
+<0214> Satomi vừa rời ghế, toan quay lại quầy tiếp tân, thì cửa phòng \nmáy tính bỗng mở ra.
+//<0214> 受け付けに戻ろうと里美が椅子から腰を上げた時、電算室の扉が開いた。
+{e878} 73 // 0214
+
+<0215> Yuka
+//<0215> 由香
+
+<0216> 「Kurahashi-san! Em xin phép ạ!」
+//<0216> 「倉橋さん、すみません」
+{e9d7} 73 // 0216
+
+<0217> Morimi Yuka, một thuyết trình viên, chạy đến.
+//<0217> 飛び込んできたのは、解説員の森見由香だった。
+{ea61} 73 // 0217
+
+<0218> Cô ấy đã vào công ty được hai năm, cũng đã quen dần với công việc \nrồi, thế mà lại đang mất bình tĩnh y như trong kỳ huấn luyện.
+//<0218> 入社２年目、そろそろ仕事にも慣れてきたであろう彼女が、まるで研修当時のようにおろおろと狼狽している。
+{eaeb} 73 // 0218
+
+<0219> 
+//<0219> 
+
+<0220> Satomi
+//<0220> 里美
+
+<0221> 「Có chuyện gì thế?」
+//<0221> 「どうしたの？」
+{eebf} 73 // 0221
+
+<0222> Ruka
+//<0222> 由香
+
+<0223> 「Yumemi-chan... mất tích rồi...」
+//<0223> 「ゆめみちゃん、いないんですけど……」
+{efd1} 73 // 0223
+
+<0224> 
+//<0224> 
+
+<0225> Satomi
+//<0225> 里美
+
+<0226> 「Mất tích...?!」
+//<0226> 「いないって……」
+{f3a5} 73 // 0226
+
+<0227> Gorou và Satomi quay sang nhìn nhau.
+//<0227> 吾朗と里美、再び顔を見合わせる。
+
+<0228> Và rồi, cuối cùng cả hai cũng hiểu tình hình.
+//<0228> そして、状況を理解した。
+{f4b9} 73 // 0228
+
+<0229> 
+//<0229> 
+
+<0230> Anh kỹ sư ngay lập tức mở máy tính và thuyết trình viên trưởng bật \nngay thiết bị định vị đầu cuối.
+//<0230> 技術主任は素早くモニターに向き直り、解説主任は位置端末のディスプレイを点ける。
+{f852} 73 // 0230
+
+<0231> Trên bản đồ chi tiết lấy cung thiên văn trên tầng thượng cửa hàng \nbách hóa Hanabishi làm trung tâm, đốm sáng chỉ vị trí hiện tại của \nHoshino Yumemi đang di chuyển chậm rãi.
+//<0231> 花菱デパート本店屋上プラネタリウム館を中心にした詳細地図の上、ほしのゆめみの現在位置を示す光点がじりじりと移動している。
+{f929} 73 // 0231
+
+<0232> Cô bé vừa rời khỏi cửa chính và đi về phía nam với vận tốc 6 km/h \nhướng thẳng tới trạm xe buýt.
+//<0232> 正面玄関を出て、バス通りの歩道を時速６キロで南下中。
+
+<0233> 
+//<0233> 
+
+<0234> Satomi dùng cả hai tay ôm mặt...
+//<0234> 里美は両手で頭を抱え……
+{fcff} 73 // 0234
+
+<0235> 
+//<0235> 
+
+<0236> Satomi
+//<0236> 里美
+
+<0237> 「Cái con bé nhân viên vụng thối này...」
+//<0237> 「あんのポンコツ社員めぇ……」
+{100d3} 73 // 0237
+
+<0238> none
+//<0238> none
+
+<0239> 
+//<0239> 
+
+<0240> none
+//<0240> none
+
+<0241> 
+//<0241> 
+
+<0242> none
+//<0242> none
+
+<0243> none
+//<0243> none
+
+<0244> 
+//<0244> 
+
+<0245> none
+//<0245> none
+
+<0246> 
+//<0246> 
+
+<0247> dummy
+//<0247> dummy
+
+<0248> bgm05
+//<0248> bgm05
+
+<0249> bg01
+//<0249> bg01
+
+<0250> bg10
+//<0250> bg10
+
+<0251> none
+//<0251> none
+
+<0252> se007
+//<0252> se007
+
+<0253> none
+//<0253> none
+
+<0254> se008
+//<0254> se008
+
+<0255> se009
+//<0255> se009
+
+<0256> se004
+//<0256> se004
+
+<0257> none
+//<0257> none
+
+<0258> none
+//<0258> none
+
+<0259> se010
+//<0259> se010
+
+<0260> se011
+//<0260> se011
+
+<0261> kuros
+//<0261> kuros
+
+<0262> kuroe
+//<0262> kuroe
+
+<0263> none
+//<0263> none
+
+<0264> bgm07
+//<0264> bgm07
+
+<0265> kurob
+//<0265> kurob
+
+<0266> none
+//<0266> none
+
+<0267> bgm17
+//<0267> bgm17
+
+<0268> none
+//<0268> none
+
+<0269> kuros
+//<0269> kuros
+
+<0270> kuroe
+//<0270> kuroe
+
+<0271> none
+//<0271> none
+
+<0272> bg01
+//<0272> bg01
+
+<0273> bg10
+//<0273> bg10
+
+<0274> none
+//<0274> none
+
+<0275> bgm02
+//<0275> bgm02
+
+<0276> se012
+//<0276> se012
+
+<0277> se011
+//<0277> se011
+
+<0278> kuros
+//<0278> kuros
+
+<0279> kurob
+//<0279> kurob
+
+<0280> none
+//<0280> none
+

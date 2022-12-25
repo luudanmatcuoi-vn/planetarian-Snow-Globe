@@ -1,0 +1,1288 @@
+// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+<0000> none
+//<0000> none
+
+<0001> 
+//<0001> 
+
+<0002> none
+//<0002> none
+
+<0003> 
+//<0003> 
+
+<0004> none
+//<0004> none
+
+<0005> none
+//<0005> none
+
+<0006> 
+//<0006> 
+
+<0007> none
+//<0007> none
+
+<0008> 
+//<0008> 
+
+<0009> 
+//<0009> 
+
+<0010> Yumemi
+//<0010> Yumemi
+
+<0011> 「Quý vị nghĩ thế nào về cung thiên văn?」
+//<0011> 「プラネタリウムはいかがでしょう？」
+{0ded} 73 // 0011
+
+<0012> Cung thiên văn trên tầng thượng của trụ sở chính trung tâm bách hóa Hanabishi, trước máy bán vé tại quầy lễ tân.
+//<0012> 花菱デパート本店屋上プラネタリウム館、受け付けの券売機前。
+
+<0013> Yumemi vẫn đang mời gọi khách như thường lệ.
+//<0013> いつもと変わることなく、ゆめみが呼びかけている。
+{0f01} 73 // 0013
+
+<0014> 
+//<0014> 
+
+<0015> Yumemi
+//<0015> Yumemi
+
+<0016> 「Bất kể lúc nào, quý vị cũng được ngắm nhìn những điều tuyệt vời, \nnhững tia sáng lấp lánh tưởng như vô tận. Vô vàn những vì sao \ntrong vũ trụ này đang chờ quý vị khám phá.」
+//<0016> 「どんな時も決して消えることのない、美しい無窮のきらめき。満天の星々が、みなさまをお待ちしています……」
+{13a5} 73 // 0016
+
+<0017> 
+//<0017> 
+
+<0018> Sau khi lặp lại câu nói nhiều lần, hành vi của Yumemi dần trở nên \nlóng ngóng.
+//<0018> 同じ文句を何度か繰り返した後、ゆめみの動作が怪しくなった。
+{179c} 73 // 0018
+
+<0019> Cô bé di chuyển phần trên cổ và quan sát xung quanh để đảm bảo rằng không có đồng nghiệp nào đang nhìn mình.
+//<0019> 首から上だけを動かして辺りを窺い、自分を監視する同僚の目がないことを確認する。
+{1826} 73 // 0019
+
+<0020> none
+//<0020> none
+
+<0021> 
+//<0021> 
+
+<0022> Đoạn, cô bé khẽ khàng rời khỏi chỗ chiếc máy bán vé.
+//<0022> そして、そっと券売機の前を離れる。
+
+<0023> Đó là tật xấu mới đây của cô: rời bỏ nơi làm việc.
+//<0023> 彼女のこのところの悪癖、職場放棄だ。
+{1d77} 73 // 0023
+
+<0024> Đúng lúc đó, khách hàng mới đẩy cửa kính và bước vào.
+//<0024> その時、新たな客がガラス扉を押して中に入ってきた。
+
+<0025> Trông hai người như một cặp đôi cấp ba, hoặc đại học.
+//<0025> 見たところ高校生か、大学生ぐらいのカップルだった。
+{1f72} 73 // 0025
+
+<0026> Chàng trai có thân hình mảnh khảnh cùng mái tóc thẳng, và dù \ndiện mạo của cậu không hẳn là lý tưởng, nhưng cậu lại có một \ncô bạn gái vừa trông đã toát lên vẻ mạnh mẽ.
+//<0026> ほっそりとした体つきに直毛の髪、実際の外見が理想に追いついていない彼が、我の強そうな彼女を連れている。
+{2049} 73 // 0026
+
+<0027> Cách ăn mặc của hai người có thể gọi là hợp thời trang.
+//<0027> 二人とも、ひとまずお洒落と言っていいだろう。
+{20d3} 73 // 0027
+
+<0028> Cậu bạn trai vận chiếc áo khoác da quân đội theo lối cổ điển, còn \nbạn gái mặc váy ngắn cùng kiểu tóc sử dụng keo xịt màu trông như \nnhững người nổi tiếng sành điệu trên TV và đeo vòng bạc trên cổ tay.
+//<0028> 彼氏の方は軍用のビンテージらしい革コート、彼女は丈の短いスカートに、カラースプレーを派手に使った流行りのタレントそのままの髪型、手首にはじゃらじゃらとシルバーリングをはめている。
+{215d} 73 // 0028
+
+<0029> Không ai trong hai người trông mong buổi chiếu, mặc dù họ đến \ncung thiên văn cùng nhau.
+//<0029> 連れだってプラネタリウムに来たにしては、二人とも楽しみにしている風ではない。
+{21e7} 73 // 0029
+
+<0030> 
+//<0030> 
+
+<0031> Yumemi
+//<0031> Yumemi
+
+<0032> 「Tôi đã luôn chờ bạn.」
+//<0032> 「お待ちしていました」
+{2685} 73 // 0032
+
+<0033> Yumemi cất lời vô cùng tự nhiên, và mỉm cười với cậu bạn trai.
+//<0033> ゆめみはごく自然に言い、彼に微笑みかけた。
+
+<0034> Cậu ta hình như định nói gì đó, nhưng lại chẳng thốt nên lời.
+//<0034> 彼はとっさに何か言いかけ、そのまま口ごもった。
+{2799} 73 // 0034
+
+<0035> Trông cậu ta cứ như vừa tìm thấy con ma hư cấu mà bản thân từng tán phét với đám bạn từ cái thời hỉ mũi chưa sạch vậy.
+//<0035> 子供の頃、友達と噂していた作り話の幽霊を本当に見つけたような顔だった。
+{2823} 73 // 0035
+
+<0036> Susumu (19 tuổi)
+//<0036> 晋（１９歳）
+
+<0037> 「...À, ừm... chị vẫn nhớ tôi sao?」
+//<0037> 「……ええとさ、オレのこと覚えてる？」
+{2935} 73 // 0037
+
+<0038> 
+//<0038> 
+
+<0039> Yumemi
+//<0039> Yumemi
+
+<0040> 「Vâng, tất nhiên rồi.」
+//<0040> 「はい。もちろんです」
+{2dd3} 73 // 0040
+
+<0041> 
+//<0041> 
+
+<0042> Yumemi
+//<0042> Yumemi
+
+<0043> 「Đã lâu không thấy bạn tới đây, nên tôi cứ lo rằng phải chăng bạn \nđã gặp vấn đề sức khỏe nào đó.」
+//<0043> 「なかなかお会いできないので、健康状態に問題がおありではないかと心配していました」
+{3271} 73 // 0043
+
+<0044> 
+//<0044> 
+
+<0045> Cô bé khẽ nghiêng đầu, và nhìn thẳng vào cậu ta.
+//<0045> 小首を傾げるようにして、彼のことを覗き込む。
+{3662} 73 // 0045
+
+<0046> Cô gái đi cùng cậu ta trưng ra một biểu cảm còn thiếu sức sống hơn \ncả cô robot đứng trước mặt hai người.
+//<0046> 付き添っている彼女の方は、目前のロボットよりよほど無機的な表情でいる。
+{36ec} 73 // 0046
+
+<0047> Cuối cùng, cơ hồ vừa quyết định điều gì đó, cậu ta lên tiếng.
+//<0047> やがて彼は、意を決したように切り出した。
+{3776} 73 // 0047
+
+<0048> Susumu (19 tuổi)
+//<0048> 晋（１９歳）
+
+<0049> 「Tôi ấy, từng... ờ, cầu hôn Yumemi-chan, chuyện đấy... quả nhiên là chị nhớ hả?」
+//<0049> 「オレさ、ゆめみちゃんに、ええと、結婚しようとか言ったと思うんだけどさぁ……やっぱ覚えてる？」
+{3888} 73 // 0049
+
+<0050> 
+//<0050> 
+
+<0051> Yumemi
+//<0051> Yumemi
+
+<0052> 「Vâng, tôi nhớ. Vì tôi là một robot nên ghi nhớ là thế mạnh của tôi.」
+//<0052> 「はい、覚えています。わたしはロボットですので、覚えておくのは得意なんです」
+{3d26} 73 // 0052
+
+<0053> Yumemi mỉm cười, không vương chút tà tâm.
+//<0053> 何の邪心もなく、にっこりと笑うゆめみ。
+{3db0} 73 // 0053
+
+<0054> 
+//<0054> 
+
+<0055> Susumu (19 tuổi)
+//<0055> 晋（１９歳）
+
+<0056> 「Giờ... tôi muốn rút lại lời cầu hôn ấy.」
+//<0056> 「それってさ……取り消してほしいんだ、けど」
+{4229} 73 // 0056
+
+<0057> Xem chừng đã chấp nhận sự lố bịch trong lời lẽ của mình, cậu ta \nấp úng nói tiếp.
+//<0057> 自分の言葉の滑稽さと折り合いをつけるように、彼はたどたどしく続ける。
+{42b3} 73 // 0057
+
+<0058> Susumu (19 tuổi)
+//<0058> 晋（１９歳）
+
+<0059> 「Vì... giờ... tôi thích nhỏ này.」
+//<0059> 「今は……ええと、オレ、こいつ好きだし」
+{43c5} 73 // 0059
+
+<0060> Cậu ta hất cằm về phía cô bạn gái.
+//<0060> 自分の彼女のことを顎で示す。
+
+<0061> Cô ta không giấu được vẻ khó chịu khi vòng tay ôm lấy tay bạn trai.
+//<0061> 彼氏の腕に自分の腕を絡めたまま、彼女は不機嫌顔を隠さない。
+{44d9} 73 // 0061
+
+<0062> Cô liếc cậu ta bằng ánh nhìn thoáng vẻ khinh khi, và chu đôi môi đỏ lòm của mình lên.
+//<0062> 軽蔑するような目つきで彼のことをちらりと見上げ、紅の強すぎる唇をとがらせる。
+{4563} 73 // 0062
+
+<0063> Yumemi một lần nữa mỉm cười.
+//<0063> ゆめみはもう一度、にっこりと笑った。
+{45ed} 73 // 0063
+
+<0064> 
+//<0064> 
+
+<0065> Yumemi
+//<0065> Yumemi
+
+<0066> 「Tôi hiểu rồi. Tôi đã ghi nhận rằng hôn ước giữa chúng ta đã bị hủy bỏ.」
+//<0066> 「わかりました。それでは婚約は解消ということで承りました」
+{4a8b} 73 // 0066
+
+<0067> Cô bé nói bằng giọng của một nhân viên quản lý việc đặt hàng từ xa \nvừa chấp nhận hủy đơn hàng.
+//<0067> 商品キャンセルを受け付けた通信販売のオペレーターの口調で言った。
+{4b15} 73 // 0067
+
+<0068> 
+//<0068> 
+
+<0069> Yumemi
+//<0069> Yumemi
+
+<0070> 「Chúc hai bạn mãi hạnh phúc bên nhau.」
+//<0070> 「お二人とも、どうぞ末永くお幸せに」
+{4fb3} 73 // 0070
+
+<0071> Cô bé cúi nhẹ đầu và tươi tỉnh nói, dù chẳng biết cô có hiểu \ntình hình hay không.
+//<0071> 状況をわかっているのかいないのか、朗らかに言って頭を下げる。
+{503d} 73 // 0071
+
+<0072> Sau khi đã nhận lời chúc từ tận đáy lòng ấy, cặp đôi trẻ nhanh chóng rời khỏi cung thiên văn.
+//<0072> 心からの祝福を受け、年若いカップルはそそくさとプラネタリウムを去っていった。
+{5114} 73 // 0072
+
+<0073> none
+//<0073> none
+
+<0074> 
+//<0074> 
+
+<0075> Gorou
+//<0075> 吾朗
+
+<0076> 「Đã mất công gửi vé miễn phí cho rồi thì ở lại xem cả buổi chiếu đi chứ... tôi mà nghĩ thế thì có bị coi là keo kiệt không nhỉ?」
+//<0076> 「せっかく無料チケットも送ったんだから投影を観ていけばいいのに……と思うのは、僕が貧乏性だからでしょうかね？」
+{56b0} 73 // 0076
+
+<0077> Gorou, người đang ngồi trên ghế lễ tân vừa quan sát sự việc diễn ra, nói.
+//<0077> 受け付けの椅子に腰かけ、様子を見守っていた吾朗が言った。
+{573a} 73 // 0077
+
+<0078> 
+//<0078> 
+
+<0079> Satomi
+//<0079> 里美
+
+<0080> 「Thì chắc tại thằng bé hết hứng thú với cung thiên văn rồi chứ gì.」
+//<0080> 「もう興味ないんだって、プラネタリウムには」
+{5b0e} 73 // 0080
+
+<0081> Satomi ngồi ghế bên cạnh đáp lại.
+//<0081> 隣の椅子で里美も答える。
+{5b98} 73 // 0081
+
+<0082> Gorou
+//<0082> 吾朗
+
+<0083> 「Nói sao thì nói chứ, nhóc Susumu ấy...」
+//<0083> 「それはそれとして、あれがあの、ススム少年とは……」
+{5caa} 73 // 0083
+
+<0084> 
+//<0084> 
+
+<0085> Satomi
+//<0085> 里美
+
+<0086> 「Thật tình. Nói sao giờ nhỉ... tôi vẫn tưởng thằng nhóc là \nngười chất phác lắm kia.」
+//<0086> 「まったくね。もっとなんていうか……素朴な子になると思ってたんだけど」
+{607e} 73 // 0086
+
+<0087> Gorou
+//<0087> 吾朗
+
+<0088> 「Ngày nay thì đấy đã là chất phác rồi. Mỗi thời mỗi khác mà chị.」
+//<0088> 「あれが今の素朴ですよ。僕たちの頃とは時代が違うんですから」
+{6190} 73 // 0088
+
+<0089> 
+//<0089> 
+
+<0090> Satomi
+//<0090> 里美
+
+<0091> 「Gorou-kun nói chuyện cứ như ông già ấy.」
+//<0091> 「年寄りみたいになってるわよ、吾朗くん」
+{6564} 73 // 0091
+
+<0092> Nhóc Susumu, hay chính xác hơn là Akino Susumu, từng là khách quen \ncủa cung thiên văn vào đúng 10 năm trước.
+//<0092> ススム少年こと秋野晋がこのプラネタリウム館に足繁く通っていたのは、今からちょうど１０年前のことだ。
+{65ee} 73 // 0092
+
+<0093> Đương nhiên là cậu bé thích thiên văn rồi, nhưng trên hết, cậu ta \ncũng thích việc chăm sóc Yumemi ― khi ấy vừa mới nhận việc ― đến \nmức thái quá, gây ra rất nhiều rắc rối cho dàn nhân sự lúc bấy giờ.
+//<0093> 天文好きだったのはもちろんだが、それよりなにより就任したばかりのゆめみをかまうことに情熱を捧げていて、当時のスタッフは随分手を焼かされた。
+{6678} 73 // 0093
+
+<0094> Đến một ngày nọ, cậu bé đột ngột ngừng ghé qua.
+//<0094> それがある日からぷっつり来なくなったのだ。
+{6702} 73 // 0094
+
+<0095> Mọi người đều quên béng đi mất, bởi học sinh tiểu học vốn là như thế.
+//<0095> 小学生ぐらいの少年にはよくあることだからと、いつしか皆忘れていった。
+{678c} 73 // 0095
+
+<0096> Tuy vậy, Satomi vẫn nhớ cảm giác nhẹ nhõm khi ấy, song hành cùng \nchút buồn bã nữa.
+//<0096> ただ、ほっとしたと共に、一抹のさびしさがなかなか消えなかったことを、里美は今も覚えている。
+{6816} 73 // 0096
+
+<0097> 
+//<0097> 
+
+<0098> Satomi
+//<0098> 里美
+
+<0099> 「...Thật tình, thằng bé cứ thế chuyển đi, chẳng nói với chúng ta \nmột lời, rồi còn tinh tướng đi kiếm bạn gái nữa.」
+//<0099> 「……まったく、わたしたちにはなんにも言わないで引っ越して、生意気に彼女までつくってるし」
+{6bea} 73 // 0099
+
+<0100> Gorou
+//<0100> 吾朗
+
+<0101> 「Bạn gái hay gì là cách cậu ta khẳng định giá trị bản thân, nên tôi xin phép miễn bình luận...」
+//<0101> 「彼女云々は彼の甲斐性の問題ですからノーコメントとしましても……」
+{6cfc} 73 // 0101
+
+<0102> 
+//<0102> 
+
+<0103> Gorou nói trong lúc thao tác với chiếc bàn phím hàng cổ một cách \nthuần thục.
+//<0103> 吾朗は言いながら、骨董品のキーボードを無造作に操作する。
+{7095} 73 // 0103
+
+<0104> Gorou
+//<0104> 吾朗
+
+<0105> 「Nhưng thứ tôi không hiểu là cái mệnh lệnh ưu tiên bị bỏ lại suốt \ntận 10 năm này này.」
+//<0105> 「わかるはずないですって、１０年前の重要命令がそのまま残ってるなんて」
+{71a7} 73 // 0105
+
+<0106> Gorou làu bàu khi nhìn vào cửa sổ trạng thái ở giữa màn hình, thứ \nđược dành riêng cho việc bảo trì Yumemi trong vài ngày qua.
+//<0106> ここ数日はゆめみのメンテナンス専用になっていた管式モニター、中央に映ったステイタス画面を見ながら、吾朗が唸るように言った。
+{727e} 73 // 0106
+
+<0107> 
+//<0107> COMMANDSTACK
+
+<0108> Một cửa sổ với tiêu đề "COMMANDSTACK" đang chạy.
+//<0108> と表題がついたウィンドウがアクティブになっている。
+{7336} 73 // 0108
+
+<0109> Một dòng số 0 ― thứ đáng ra không thể tồn tại ― chứa đầy các mã \nthập lục phân.
+//<0109> あるはずのない０番目の行に、十六進の数値がびっしりとひしめいていた。
+{73c0} 73 // 0109
+
+<0110> Nói đơn giản, thì đây giống như một dòng thần chú ma thuật ẩn nấp \ntrong trí nhớ Yumemi suốt 10 năm trời và gây ra hiện tượng \n"rời bỏ nơi làm việc" của cô bé.
+//<0110> それがつまり、ゆめみの記憶の中に１０年の間潜み続け、ゆめみの『職場放棄』を誘発していた魔法の呪文そのものだった。
+{744a} 73 // 0110
+
+<0111> Gorou
+//<0111> 吾朗
+
+<0112> 「Mà, khi ấy chúng ta hãy còn đang điều chỉnh con bé, cả hệ thống \nhọc tập nữa ha.」
+//<0112> 「まあ、あの頃はまだ学習システム周りを含めて調整中でしたからね」
+{755c} 73 // 0112
+
+<0113> Gorou
+//<0113> 吾朗
+
+<0114> 「Có hàng tá lỗi nghiêm trọng đã được sửa lại rồi. Cả cái này, \nnguyên nhân chính cũng là do việc xử lý ngoại lệ thôi, cơ mà...」
+//<0114> 「今は潰した危ないバグが山盛りでしたから。これも例外処理の単純なミスが根本原因なんですが、それにしても……」
+{766e} 73 // 0114
+//Exception handling, hình như cái này là thuật ngữ IT này
+
+<0115> Anh ta tiếp tục nhấp vào màn hình bằng chiếc bút mực có kèm \nchức năng của một cây bút cảm ứng.
+//<0115> スタイラス兼用のインクペンでとんとんと画面を叩きながら続ける。
+{7745} 73 // 0115
+
+<0116> Gorou
+//<0116> 吾朗
+
+<0117> 「Vì được bảo là phải giữ bí mật mà con bé có thể thực hiện một hành vi phức tạp như hook chính quá trình gỡ lỗi hàng ngày và làm cho \ndanh sách mệnh lệnh bị ẩn đi, chuyện này chính tôi cũng chẳng \ntin nổi.」
+//<0117> 「秘密って言われたからって、デバッグルーチン自力でフックして命令スタックを不可視にするなんて、よくまあ手の込んだことができたもんです」
+{78a4} 73 // 0117
+//Một lần nữa, hình như là thuật ngữ IT
+
+<0118> Gorou
+//<0118> 吾朗
+
+<0119> 「Hay ngược lại, tôi còn thấy phục con bé.」
+//<0119> 「逆に感心しますよ」
+{79b6} 73 // 0119
+
+<0120> 
+//<0120> 
+
+<0121> Satomi
+//<0121> 里美
+
+<0122> 「Nhưng dù không biết về mệnh lệnh đó, thì nếu xem video từ lúc đầu, cậu vẫn sẽ tìm được khởi điểm chứ?」
+//<0122> 「でも、命令の存在はわからなかったとしても、動画の方を最初から見てれば発端はわかったはずでしょ？」
+{7d8a} 73 // 0122
+
+<0123> Gorou
+//<0123> 吾朗
+
+<0124> 「Ý chị là kiểm tra toàn diện xuyên 10 năm ấy hả? Xét về mặt \nvật chất thì chuyện đó là bất khả thi đấy.」
+//<0124> 「１０年分をフルチェックですか？　物理的に無理です」
+{7e9c} 73 // 0124
+
+<0125> 
+//<0125> 
+
+<0126> Satomi
+//<0126> 里美
+
+<0127> 「Cũng phải...」
+//<0127> 「そうね……」
+{8270} 73 // 0127
+
+<0128> Cũng có thể Satomi đã từng thấy rồi, nhưng sau đó cô lại quên đi mất.
+//<0128> あるいは、里美もそれを見たことがあったのに、忘れていたのかもしれない。
+{82fa} 73 // 0128
+
+<0129> Phát không ngừng ở góc phải màn hình máy tính là một video đa chiều do Yumemi quay lại được nén xuống còn hai chiều.
+//<0129> 画面の右隅にエンドレスで再生されているのは、ゆめみが撮影したホロスナップのバックアップを二次元化したものだった。
+{8384} 73 // 0129
+
+<0130> none
+//<0130> none
+
+<0131> 
+//<0131> 
+
+<0132> none
+//<0132> none
+
+<0133> 
+//<0133> 
+
+<0134> none
+//<0134> none
+
+<0135> none
+//<0135> none
+
+<0136> 
+//<0136> 
+
+<0137> none
+//<0137> none
+
+<0138> 
+//<0138> 
+
+<0139> none
+//<0139> none
+
+<0140> 
+//<0140> 
+
+<0141> none
+//<0141> none
+
+<0142> 
+//<0142> 
+
+<0143> none
+//<0143> none
+
+<0144> none
+//<0144> none
+
+<0145> 
+//<0145> 
+
+<0146> none
+//<0146> none
+
+<0147> 
+//<0147> 
+
+<0148> Ngày quay là 10 năm và 8 ngày trước.
+//<0148> 撮影日付は、今から１０年と８日前。
+{93f7} 73 // 0148
+
+<0149> Tại quầy lễ tân của cung thiên văn, trước máy bán vé tự động, \nmột cậu bé đang nhìn chằm chằm vào Yumemi từ chính diện.
+//<0149> プラネタリウム館の受け付け、券売機の前で男の子がこちらを――ゆめみのことを正面から覗き込んでいる。
+{9481} 73 // 0149
+
+<0150> Khuôn mặt cậu lộ rõ vẻ tinh nghịch, mái tóc ngắn lòa xòa và đôi mắt như sắp khóc tới nơi.
+//<0150> 腕白な顔つき、つんつんと短い髪、今にも泣き出してしまいそうな瞳。
+{950b} 73 // 0150
+
+<0151> Susumu (9 tuổi)
+//<0151> 晋（９歳）
+
+<0152> 『Yumemi-chan, chị em mình cưới nhau đi!』
+//<0152> 『ゆめみちゃん、ケッコンしよ！』
+{961d} 73 // 0152
+
+<0153> Một lời cầu hôn hết lòng hết dạ và tha thiết đến từ phía cậu bé.
+//<0153> 男の子の、必死で真剣な求愛。
+{96a7} 73 // 0153
+
+<0154> Susumu (9 tuổi)
+//<0154> 晋（９歳）
+
+<0155> 『Mai em phải chuyển nhà rồi... Vì thế chúng ta sẽ không thể \ngặp nhau được nữa.』
+//<0155> 『僕んち、あした引っ越すんだ、だからもう、会えなくなっちゃう……』
+{97b9} 73 // 0155
+
+<0156> Yumemi
+//<0156> Yumemi
+
+<0157> 『Nhưng tôi là một robot, nên tôi không thể cưới bạn được.』
+//<0157> 『ですが、わたしはロボットですので、結婚をすることはできないかと考えます』
+{98f0} 73 // 0157
+
+<0158> Susumu (9 tuổi)
+//<0158> 晋（９歳）
+
+<0159> 『Làm gì có chuyện đấy! Yêu nhau là cưới nhau được mà!』
+//<0159> 『そんなことないよ！　好きならケッコンできるんだよ！』
+{9a02} 73 // 0159
+
+<0160> Susumu (9 tuổi)
+//<0160> 晋（９歳）
+
+<0161> 『Mẹ em dạy như vậy đó. Chỉ cần yêu là có thể thành thân được rồi.』
+//<0161> 『おかあさんが言ってたもん。好きならケッコンしていいんだって』
+{9b14} 73 // 0161
+
+<0162> Yumemi
+//<0162> Yumemi
+
+<0163> 『Thật sự xin lỗi, nhưng tôi không tìm thấy bất cứ dữ liệu nào trong cơ sở dữ liệu để khẳng định những điều bạn vừa nói.』
+//<0163> 『申し訳ありませんが、わたしの蓄積データベースにはそれを肯定するデータが見つかりませんでした』
+{9c4b} 73 // 0163
+
+<0164> Cậu bé tỏ ra thất vọng vì cuộc trò chuyện không đúng hướng như \ndự kiến.
+//<0164> 噛み合わない会話に、業を煮やして男の子が言う。
+{9cd5} 73 // 0164
+
+<0165> Susumu (9 tuổi)
+//<0165> 晋（９歳）
+
+<0166> 『Nếu không cưới được Yumemi-chan... chắc em chết mất...』
+//<0166> 『だって僕、ゆめみちゃんがいなかったら……僕、死んじゃうかもしれない……』
+{9de7} 73 // 0166
+
+<0167> Màn hình hơi chếch đi một chút.
+//<0167> 画面が少しだけ斜めになった。
+
+<0168> Có lẽ Yumemi đang nghiêng đầu nghĩ ngợi gì đó.
+//<0168> ゆめみが首を傾げ、何かを考えているのだろう。
+{9efb} 73 // 0168
+
+<0169> Yumemi
+//<0169> Yumemi
+
+<0170> 『Thật thất lễ quá, nhưng tôi có thể biết quý khách Susumu năm nay \nbao nhiêu tuổi được không?』
+//<0170> 『失礼ですが、ススムさまのお歳はおいくつですか？』
+{a032} 73 // 0170
+
+<0171> Susumu (9 tuổi)
+//<0171> 晋（９歳）
+
+<0172> 『Em chín tuổi.』
+//<0172> 『９歳』
+{a144} 73 // 0172
+
+<0173> Yumemi
+//<0173> Yumemi
+
+<0174> 『Nếu là như vậy thì thật đáng tiếc, nhưng ở độ tuổi này bạn chưa \nđược phép kết hôn.』
+//<0174> 『そうしますと、残念ながら結婚は許可されないかと考えます』
+{a27b} 73 // 0174
+
+<0175> Một thoáng lặng im.
+//<0175> しばらくの沈黙。
+{a305} 73 // 0175
+
+<0176> Susumu (9 tuổi)
+//<0176> 晋（９歳）
+
+<0177> 『Yumemi-chan, đợi em 10 năm nữa nhé! 10 năm nữa em sẽ đến đón chị!』
+//<0177> 『ゆめみちゃん、１０年待ってよ！　僕、１０年したら迎えに来るから』
+{a417} 73 // 0177
+
+<0178> Susumu (9 tuổi)
+//<0178> 晋（９歳）
+
+<0179> 『Em sẽ cố gắng giữ mình cho đến lúc đó, nên khi ấy mình kết hôn đi!』
+//<0179> 『僕、それまでガマンするから。そうしたらケッコンしよ！』
+{a529} 73 // 0179
+
+<0180> Yumemi
+//<0180> Yumemi
+
+<0181> 『Đây... là thứ gọi là hôn ước phải không ạ?』
+//<0181> 『それは、婚約ということでしょうか？』
+{a660} 73 // 0181
+
+<0182> Susumu (9 tuổi)
+//<0182> 晋（９歳）
+
+<0183> 『Đúng, là hôn ước đó!』
+//<0183> 『そうだよ、コンヤク！』
+{a772} 73 // 0183
+
+<0184> Yumemi
+//<0184> Yumemi
+
+<0185> 『Nhưng... tôi còn phải làm việc.』
+//<0185> 『ですが、わたしには業務がありますので』
+{a8a9} 73 // 0185
+
+<0186> Susumu (9 tuổi)
+//<0186> 晋（９歳）
+
+<0187> 『Khi không ai thấy thì chị cứ ra ngoài cũng có sao đâu, giả vờ như đang làm việc là được.』
+//<0187> 『だれも見てない時に外に出ればいいんだよ、仕事のフリしてさ』
+{a9bb} 73 // 0187
+
+<0188> Susumu (9 tuổi)
+//<0188> 晋（９歳）
+
+<0189> 『Khi ấy em sẽ đến đón chị. Nhất định, nhất định em sẽ đến...』
+//<0189> 『そうすれば僕、迎えに行くから。ゼッタイ、ゼッタイ行くから……』
+{aacd} 73 // 0189
+
+<0190> Sau khi lưỡng lự đôi chút, Yumemi lên tiếng trả lời dứt khoát.
+//<0190> ためらうような数秒の後、ゆめみの声がはっきりと言った。
+{ab57} 73 // 0190
+
+<0191> Yumemi
+//<0191> Yumemi
+
+<0192> 『Xin nhận lệnh, đã đăng ký mệnh lệnh này ở mức ưu tiên cao hơn.』
+//<0192> 『承知しました。重要命令として登録します』
+{ac8e} 73 // 0192
+
+<0193> Susumu (9 tuổi)
+//<0193> 晋（９歳）
+
+<0194> 『Ừm! Chị nhớ giữ bí mật nhé. Lời hứa bí mật của đôi ta...』
+//<0194> 『うんっ。ヒミツだよ。ヒミツの約束だよ……』
+{ada0} 73 // 0194
+
+<0195> none
+//<0195> none
+
+<0196> 
+//<0196> 
+
+<0197> none
+//<0197> none
+
+<0198> 
+//<0198> 
+
+<0199> none
+//<0199> none
+
+<0200> 
+//<0200> 
+
+<0201> none
+//<0201> none
+
+<0202> none
+//<0202> none
+
+<0203> 
+//<0203> 
+
+<0204> none
+//<0204> none
+
+<0205> 
+//<0205> 
+
+<0206> Video ghi lại dừng ở đó và quay lại cảnh đầu tiên.
+//<0206> そこで映像は途切れ、また最初のシーンに戻る。
+{bb6c} 73 // 0206
+
+<0207> none
+//<0207> none
+
+<0208> 
+//<0208> 
+
+<0209> none
+//<0209> none
+
+<0210> 
+//<0210> 
+
+<0211> none
+//<0211> none
+
+<0212> none
+//<0212> none
+
+<0213> 
+//<0213> 
+
+<0214> none
+//<0214> none
+
+<0215> 
+//<0215> 
+
+<0216> Một lời hứa ngây ngô và trong sáng giữa cô gái ấy và \nmột cậu chàng bé nhỏ.
+//<0216> ちいさな男の子と女の子が交わした、無邪気で純粋な約束。
+{c2da} 73 // 0216
+
+<0217> Lời hứa nhảy múa vòng quanh không ngừng tựa như bông tuyết \nchứa trong quả cầu tuyết.
+//<0217> それはスノーグローブに封じ込められた雪の欠片のように、いつまでもくるくると回り踊っている。
+{c364} 73 // 0217
+
+<0218> Dù cho cậu bé ấy đã quên đi mọi chuyện.
+//<0218> たとえ男の子は、全部忘れてしまったとしても。
+{c3ee} 73 // 0218
+
+<0219> Satomi không ngừng suy nghĩ.
+//<0219> 里美は考えてしまう。
+{c478} 73 // 0219
+
+<0220> Satomi
+//<0220> 里美
+
+<0221> (Con người luôn quên đi, và Yumemi không thể quên...)
+//<0221> （忘れてしまう人間と、忘れないゆめみ……）
+{c58a} 73 // 0221
+
+<0222> Satomi
+//<0222> 里美
+
+<0223> (Liệu bên nào mới hạnh phúc đây?)
+//<0223> （どっちが幸せなのかしらね）
+{c69c} 73 // 0223
+
+<0224> none
+//<0224> none
+
+<0225> 
+//<0225> 
+
+<0226> none
+//<0226> none
+
+<0227> 
+//<0227> 
+
+<0228> none
+//<0228> none
+
+<0229> none
+//<0229> none
+
+<0230> 
+//<0230> 
+
+<0231> none
+//<0231> none
+
+<0232> 
+//<0232> 
+
+<0233> none
+//<0233> none
+
+<0234> 
+//<0234> 
+
+<0235> none
+//<0235> none
+
+<0236> 
+//<0236> 
+
+<0237> none
+//<0237> none
+
+<0238> none
+//<0238> none
+
+<0239> 
+//<0239> 
+
+<0240> none
+//<0240> none
+
+<0241> 
+//<0241> 
+
+<0242> 
+//<0242> 
+
+<0243> Satomi
+//<0243> 里美
+
+<0244> 「Phù...」
+//<0244> 「ふう……」
+{d9d9} 73 // 0244
+
+<0245> Satomi vươn vai trên ghế như thể đang dối lừa những cảm xúc đương \ntrào dâng.
+//<0245> 湧き上がってきた感情を誤魔化すように、里美は椅子の上で伸びをする。
+{da63} 73 // 0245
+
+<0246> Gorou
+//<0246> 吾朗
+
+<0247> 「Để tôi đoán chị đang nghĩ gì nhé?」
+//<0247> 「なに考えてるか、当てましょうか？」
+{dbc2} 73 // 0247
+
+<0248> Gorou lên tiếng.
+//<0248> 吾朗が言ってきた。
+{dc4c} 73 // 0248
+
+<0249> 
+//<0249> 
+
+<0250> Satomi
+//<0250> 里美
+
+<0251> 「Gì hở?」
+//<0251> 「なあに？」
+{e020} 73 // 0251
+
+<0252> Gorou
+//<0252> 吾朗
+
+<0253> 「Làm sao để tính phí vé đi-về của hai đứa kia đúng không?」
+//<0253> 「あの二人の往復チケット代、どうやって経費にしようか、ですよね？」
+{e132} 73 // 0253
+
+<0254> Anh ta chỉ ra cùng một vẻ tự tin.
+//<0254> したり顔で指摘する。
+{e1bc} 73 // 0254
+
+<0255> 
+//<0255>  
+
+<0256> Satomi
+//<0256> 里美
+
+<0257> 「Chán cậu lắm Gorou-kun ạ.」
+//<0257> 「吾朗くん。あなたは本当にダメね」
+{e590} 73 // 0257
+
+<0258> Xen lẫn với một tiếng thở dài, Satomi đáp.
+//<0258> 溜息混じりに里美は答えた。
+{e61a} 73 // 0258
+
+<0259> 
+//<0259> 
+
+<0260> Giờ đây nguyên nhân đã được xác định, tất cả những gì họ cần làm chỉ đơn giản là viết lại danh sách mệnh lệnh mà thôi, nhưng không một ai ― bao gồm cả Gorou là người đề xuất ý tưởng này ― đồng ý làm thế.
+//<0260> 原因がわかった以上、命令スタックを書き換えてしまえば済む話だったが、それに賛成する者は、提案した吾朗も含めて一人もいなかった。
+{e966} 73 // 0260
+
+<0261> Để đề phòng trường hợp khai man danh tính, những robot đồng hành như Yumemi sử dụng rất nhiều lớp quét sinh trắc học nhằm định dạng một \ncá thể, vậy nên việc nhờ chính chủ từng xác nhận mệnh lệnh ưu tiên \ntới để "hủy bỏ hôn ước" là điều tối cần thiết.
+//<0261> 詐称防止のため、ゆめみたちコンパニオンロボットは個人認識を何重もの生体認証で行っているから、重要命令を確定させた本人に『婚約破棄』を宣言してもらう必要があった。
+{e9f0} 73 // 0261
+
+<0262> Kết quả sinh ra từ những dữ kiện này là một màn kịch nhỏ với \nđương sự làm vai chính.
+//<0262> そうして知恵を寄せ合わせた結果が、当事者主演の小芝居だったわけだ。
+{ea7a} 73 // 0262
+
+<0263> Tất nhiên ta không thể bỏ qua những công sức và phí tổn của bọn họ \ntrong việc tìm kiếm địa chỉ hiện tại của cậu bé Susumu ngày nào từ \ndanh sách khách hàng thời đó, đi giải thích tình hình rồi lại \nyêu cầu cậu ta tới gặp Yumemi ngay lập tức.
+//<0263> 当時の顧客名簿からススム少年の現住所を調べあてたり、事情を説明して早急なる足労を願ったりと、実際の手間と出費も無視できない。
+{eb04} 73 // 0263
+
+<0264> 
+//<0264> 
+
+<0265> Satomi
+//<0265> 里美
+
+<0266> (Thật tình, cái chỗ làm việc gì mà rặt một đám nhân viên vô dụng đi thấu cảm cho một robot.)
+//<0266> （まったく、この職場はロボットに過剰に感情移入する駄目社員ばかりね）
+{eed8} 73 // 0266
+
+<0267> Cô không biết nhóc Susumu và cô bạn gái sẽ đi đâu.
+//<0267> ススム少年と今の彼女がどこに行ったのかはわからない。
+{ef62} 73 // 0267
+
+<0268> 
+//<0268> 
+
+<0269> Satomi
+//<0269> 里美
+
+<0270> (Liệu hai đứa nó sẽ đi thăm thú thành phố nơi bạn trai từng sống, \nhay sẽ đi vào quán cà phê, trung tâm trò chơi hay thậm chí là \nrạp chiếu phim 3D...)
+//<0270> （彼氏が昔暮らしていた町をふたりして見て回るのか、それとも喫茶店かゲームセンター、立体映画館にでも行くのか……）
+{f336} 73 // 0270
+
+<0271> Quả nhiên là cô vẫn thấy bực khi cung thiên văn không nằm trong \nkế hoạch hò hẹn ấy.
+//<0271> そのデートコースの中にプラネタリウムが入っていないことは、やはり悔しかった。
+{f3c0} 73 // 0271
+
+<0272> 
+//<0272> 
+
+<0273> Satomi
+//<0273> 里美
+
+<0274> 「Thôi thì, xin được chúc cho những cặp yêu nhau một tương lai \nxán lạn.」
+//<0274> 「とりあえず、恋人たちの前途に幸多かれ、と願っておくことにするわ」
+{f794} 73 // 0274
+
+<0275> Gorou
+//<0275> 吾朗
+
+<0276> 「...Nghe câu đậm mùi cà khịa.」
+//<0276> 「……少なからず皮肉が混じっているように聞こえるんですが」
+{f8a6} 73 // 0276
+
+<0277> 
+//<0277> 
+
+<0278> Satomi
+//<0278> 里美
+
+<0279> 「Cậu thấy thế thì thế.」
+//<0279> 「そりゃそうよ」
+{fc7a} 73 // 0279
+
+<0280> 
+//<0280> 
+
+<0281> Satomi
+//<0281> 里美
+
+<0282> 「Đã cho Yumemi dễ thương nhà mình ăn bơ vậy rồi mà còn không đến \ngặp con bé thì tôi sẽ cho thằng nhóc đó một bài học. Như 10 năm \ntrước vậy.」
+//<0282> 「うちの可愛いゆめみを袖にしたんだから、彼女が見てなかったらうんとお灸を据えてやったところよ。１０年前みたいにね」
+{1004e} 73 // 0282
+
+<0283> 
+//<0283> 
+
+<0284> Gorou
+//<0284> 吾朗
+
+<0285> 「Thế giờ ta làm gì đây? Nguyên nhân thì xác định được rồi, và tôi \ncó thể tự tin đảm bảo là bây giờ lỗi sẽ không xuất hiện nữa đâu...」
+//<0285> 「ところで、どうします？　原因は確定しましたし、現在では既に発現しない不具合であることも自信を持って言えますが……」
+{10422} 73 // 0285
+
+<0286> Gorou
+//<0286> 吾朗
+
+<0287> 「Nhưng nếu lỗi ở cấp độ này vẫn còn lưu lại thì khi giám đốc trở về, có lẽ tôi sẽ phải đề xuất một lần cập nhật lại hệ thống cho con bé.」
+//<0287> 「このレベルのバグが残っているとすると、立場上は館長が帰り次第、根本的なシステム更新を進言しなければいけないところなんですが」
+{10534} 73 // 0287
+
+<0288> 
+//<0288> 
+
+<0289> Satomi
+//<0289> 里美
+
+<0290> 「Nhưng làm vậy thì tính cách em nó cũng sẽ thay đổi theo chứ gì? Kệ đi, cứ để thế này cũng được mà.」
+//<0290> 「でも、それだと性格変わっちゃうんでしょ？　別にいいわよ、今のままでも」
+{10908} 73 // 0290
+
+<0291> 
+//<0291> 
+
+<0292> Satomi
+//<0292> 里美
+
+<0293> (Ai mà chẳng phải có một hai bí mật muốn giấu người khác chứ.)
+//<0293> （だれにだって、隠していたい秘密の一つや二つはあるんだし）
+{10cdc} 73 // 0293
+
+<0294> 
+//<0294> 
+
+<0295> 
+//<0295> 
+
+<0296> Yumemi
+//<0296> Yumemi
+
+<0297> 「Quý vị nghĩ thế nào về cung thiên văn?」
+//<0297> 「プラネタリウムはいかがでしょう？」
+{1144e} 73 // 0297
+
+<0298> 
+//<0298> 
+
+<0299> Yumemi
+//<0299> Yumemi
+
+<0300> 「Bất kể lúc nào, quý vị cũng được ngắm nhìn những điều tuyệt vời, \nnhững tia sáng lấp lánh tưởng như vô tận...」
+//<0300> 「どんな時も決して消えることのない、美しい無窮のきらめき……」
+{118f2} 73 // 0300
+
+<0301> Yumemi quay trở lại vị trí thường ngày, liên tục mời chào khách \nkhông biết mệt mỏi.
+//<0301> ゆめみはいつもの立ち位置に戻り、飽きることなく呼び込みをしている。
+{1197c} 73 // 0301
+
+<0302> Làn gió đầu đông luồn qua khe cửa kính làm cho mái tóc chẻ hai đuôi lỗi mốt của cô bé khẽ dao động.
+//<0302> ガラス扉から入ってくる初冬の隙間風が、流行遅れの振り分け髪を震わせる。
+{11a06} 73 // 0302
+
+<0303> Sắc diện của cô trông như yêu kiều nữ tính hơn, tràn đầy sức sống \nhơn bình thường.
+//<0303> その姿は心なしか、いつもより健気に女の子しているように思えた。
+{11a90} 73 // 0303
+
+<0304> 
+//<0304> 
+
+<0305> Satomi
+//<0305> 里美
+
+<0306> 「Nè, Yumemi-chan, sao em không thử thay đổi kiểu tóc nhỉ?」
+//<0306> 「ねえ、ゆめみちゃん。あなた、髪型変えてみない？」
+{11e64} 73 // 0306
+
+<0307> 
+//<0307> 
+
+<0308> Yumemi
+//<0308> Yumemi
+
+<0309> 「...?」
+//<0309> 「……？」
+{12308} 73 // 0309
+
+<0310> Bất ngờ được gọi, cô bé nhìn Satomi với một vẻ ngây ngô.
+//<0310> 何とはなしにそう呼びかけると、きょとんとした瞳を里美に向ける。
+{12392} 73 // 0310
+
+<0311> 
+//<0311> 
+
+<0312> Yumemi
+//<0312> Yumemi
+
+<0313> 「Mái tóc của tôi đóng vai trò như bộ tản nhiệt từ bộ phận tính toán trên đầu, nên không được phép uốn hoặc buộc lại.」
+//<0313> 「わたしの髪は頭部演算ユニットからの放熱素子を兼ねていますので、折り曲げたり結んだりしての運用は禁止となっています」
+{12836} 73 // 0313
+
+<0314> 
+//<0314> 
+
+<0315> Satomi
+//<0315> 里美
+
+<0316> 「Ra thế, chị hiểu rồi...」
+//<0316> 「そっか、そうだったわね……」
+{12c0a} 73 // 0316
+
+<0317> Satomi liếc mắt lên đồng hồ treo tường trong lúc nghe cô bé trả lời.
+//<0317> 答えながら、里美は壁時計に視線をやった。
+
+<0318> Ở trong phòng trình chiếu, nhạc nền đã chuyển, đã sắp đến lúc \nbuổi chiếu lúc bình minh bắt đầu.
+//<0318> 投影室ではＢＧＭが切り替わり、そろそろ朝焼けの演出が始まる頃。
+{12d1e} 73 // 0318
+
+<0319> Chuẩn bị có thêm một lượt khách tới xem.
+//<0319> もうすぐ観客の入れ替えだ。
+
+<0320> Cô cần phải trở về vị trí của mình.
+//<0320> 持ち場に戻らなければならない。
+{12e32} 73 // 0320
+
+<0321> 
+//<0321> 
+
+<0322> 
+//<0322> 
+
+<0323> Satomi thì thầm vào tai Gorou trong khi anh đứng dậy khỏi chiếc ghế xếp.
+//<0323> パイプ椅子から立ちあがりながら、里美は吾朗に耳打ちした。
+{13575} 73 // 0323
+
+<0324> 
+//<0324> 
+
+<0325> Satomi
+//<0325> 里美
+
+<0326> 「Nè, cậu nghĩ đeo thêm phụ kiện tóc cho Yumemi có ổn không?」
+//<0326> 「ねえ、髪飾りってゆめみにつけても大丈夫だと思う？」
+{13996} 73 // 0326
+
+<0327> Gorou
+//<0327> 吾朗
+
+<0328> 「Nếu ta chuẩn bị một thứ dành cho máy móc dòng cao cấp thì tôi nghĩ sẽ chẳng sao đâu. Tất nhiên, ngân sách đâu ra thì lại là \nmột chuyện khác nhé.」
+//<0328> 「上級機用のを工夫すれば大丈夫だと思いますよ。どこから予算を捻出するかは別として」
+{13aa8} 73 // 0328
+
+<0329> 
+//<0329> 
+
+<0330> Satomi
+//<0330> 里美
+
+<0331> 「Chỉ còn cách làm việc quần quật để kiếm chác thôi ha.」
+//<0331> 「バリバリ稼ぐしかないわね」
+{13e7c} 73 // 0331
+
+<0332> Satomi nói và mỉm cười.
+//<0332> 里美は言って、にっこりと微笑んだ。
+{13f06} 73 // 0332
+
+<0333> none
+//<0333> none
+
+<0334> 
+//<0334> 
+
+<0335> none
+//<0335> none
+
+<0336> 
+//<0336> 
+
+<0337> none
+//<0337> none
+
+<0338> none
+//<0338> none
+
+<0339> 
+//<0339> 
+
+<0340> none
+//<0340> none
+
+<0341> 
+//<0341> 
+
+<0342> dummy
+//<0342> dummy
+
+<0343> bgm01
+//<0343> bgm01
+
+<0344> bg01
+//<0344> bg01
+
+<0345> bg11
+//<0345> bg11
+
+<0346> none
+//<0346> none
+
+<0347> none
+//<0347> none
+
+<0348> se031
+//<0348> se031
+
+<0349> se032
+//<0349> se032
+
+<0350> se033
+//<0350> se033
+
+<0351> none
+//<0351> none
+
+<0352> se009
+//<0352> se009
+
+<0353> se034
+//<0353> se034
+
+<0354> kurob
+//<0354> kurob
+
+<0355> kuros
+//<0355> kuros
+
+<0356> none
+//<0356> none
+
+<0357> bgm13
+//<0357> bgm13
+
+<0358> kurob
+//<0358> kurob
+
+<0359> kuros
+//<0359> kuros
+
+<0360> none
+//<0360> none
+
+<0361> none
+//<0361> none
+
+<0362> bgm08
+//<0362> bgm08
+
+<0363> kurob
+//<0363> kurob
+
+<0364> bg35a
+//<0364> bg35a
+
+<0365> none
+//<0365> none
+
+<0366> kurob
+//<0366> kurob
+
+<0367> bg35a
+//<0367> bg35a
+
+<0368> none
+//<0368> none
+
+<0369> kuros
+//<0369> kuros
+
+<0370> kuroe
+//<0370> kuroe
+
+<0371> none
+//<0371> none
+
+<0372> bg01
+//<0372> bg01
+
+<0373> bg11
+//<0373> bg11
+
+<0374> none
+//<0374> none
+
+<0375> se011
+//<0375> se011
+
+<0376> se051
+//<0376> se051
+
+<0377> kuros
+//<0377> kuros
+
+<0378> kuroe
+//<0378> kuroe
+
+<0379> none
+//<0379> none
+

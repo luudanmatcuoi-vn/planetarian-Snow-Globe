@@ -1,0 +1,2212 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+<0000> none
+//<0000> none
+
+<0001> 
+//<0001> 
+
+<0002> none
+//<0002> none
+
+<0003> 
+//<0003> 
+
+<0004> none
+//<0004> none
+
+<0005> none
+//<0005> none
+
+<0006> 
+//<0006> 
+
+<0007> none
+//<0007> none
+
+<0008> 
+//<0008> 
+
+<0009> Với bộ đồng phục thuyết trình viên cùng áo choàng trên người, Satomi bước ra ngoài cửa chính.
+//<0009> 解説員の制服にコートを重ねただけの姿で、里美は正面玄関を出た。
+
+<0010> Không cần vội quá mà làm gì. 
+//<0010> 焦る必要はない。
+{0aaa} 73 // 0010
+
+<0011> Theo như tốc độ di chuyển của Yumemi thì hẳn cô bé vẫn chưa đi quá \nxa, và nhờ vào
+//<0011> ゆめみの歩行速度ではそう遠くまでは行き着けないし、
+
+<0012> 
+//<0012> イーポス
+
+<0013>  thiết bị đầu cuối định vị
+//<0013> 位置把握端末
+{0bca} 3d // 0013
+
+<0014>  mà Satomi có thể xác định \nvị trí hiện tại của cô bé.
+//<0014> のおかげで現在位置も筒抜けだ。
+{0c1d} 73 // 0014
+
+<0015> Hơn nữa hệ thống có cả chìa khóa và phím bấm để phát tín hiệu dừng \ntrong trường hợp khẩn cấp.
+//<0015> いざとなれば、強制停止信号を発行するためのキーとボタンも備わっている。
+{0ca7} 73 // 0015
+
+<0016> 
+//<0016> 
+
+<0017> Satomi
+//<0017> 里美
+
+<0018> (...Cứ tưởng cuối cùng cũng được nghỉ xả hơi, mà thôi kệ vậy...)
+//<0018> （……中休みをもらったと思えば、まあいいけど）
+{107b} 73 // 0018
+// ko hiểu
+
+\\x
+<0019> Trước những bước chân hối hả đầy bực dọc của Satomi, người \ntrên đường chỉ còn biết né sang bên.
+//<0019> 不機嫌な大股を隠そうともしない里美を、すれ違う通行人たちが剣呑そうに避けていく。
+{1105} 73 // 0019
+
+\\x
+<0020> Satomi hiểu rõ hơn ai hết rằng sẽ thật vô nghĩa khi nổi nóng với \nYumemi.
+//<0020> ゆめみ相手に怒るのがどれだけ不毛なことか、里美がいちばんよく知っている。
+{118f} 73 // 0020
+
+\\x
+<0021> Dù vậy, nỗi thất vọng vẫn ngự trị trong cô.
+//<0021> なのに、苛立ちはいっこうに収まろうとしない。
+{1219} 73 // 0021
+
+<0022> 
+//<0022> 
+
+<0023> Satomi
+//<0023> 里美
+
+<0024> (Yumemi chắc chắn sẽ không bỏ đi.)
+//<0024> （ゆめみは決して、逃げない）
+{163a} 73 // 0024
+
+<0025> Satomi
+//<0025> 里美
+
+<0026> (Cho dù điều kiện công việc có tồi tệ đến mức nào, con bé nhất định sẽ không phàn nàn.)
+//<0026> （職場でどんなに嫌なことがあっても、文句ひとつ言わずに従う）
+{174c} 73 // 0026
+
+<0027> Satomi
+//<0027> 里美
+
+<0028> (Yumemi vốn được tạo ra như vậy mà.)
+//<0028> （ゆめみはそう作られている）
+{185e} 73 // 0028
+
+<0029> Satomi
+//<0029> 里美
+
+<0030> (Ngoại trừ yêu cầu làm hại con người, thì robot không có quyền \ntừ chối mệnh lệnh nào cả.)
+//<0030> （人間に危害を加える命令を除いて、ロボットに抗命権はない）
+{1970} 73 // 0030
+
+<0031> Satomi
+//<0031> 里美
+
+<0032> (Dù có là mệnh lệnh lố bịch đến mức nào, thì robot cũng không thể \nlý giải hay đánh giá được.)
+//<0032> （どんなに理不尽な状況に置かれても、ロボットにはその理不尽さ自体を理解も評価もできないんだから）
+{1a82} 73 // 0032
+
+<0033> 
+//<0033> 
+
+<0034> Satomi
+//<0034> 里美
+
+<0035> (Nếu vậy thì bây giờ, mình đang đuổi theo thứ gì đây?)
+//<0035> （なら今、わたしが追いかけているものは何なんだろう？）
+{1e56} 73 // 0035
+
+<0036> Satomi
+//<0036> 里美
+
+<0037> (Nếu không phải chán ghét, thì tại sao mình lại không mừng vui chút nào?)
+//<0037> （嫌なことがないなら、幸せも感じないのかしら？）
+{1f68} 73 // 0037
+
+<0038> Satomi không hiểu.
+//<0038> 里美にはわからない。
+{1ff2} 73 // 0038
+
+<0039> none
+//<0039> none
+
+<0040> 
+//<0040> 
+
+<0041> Bỗng, cô trông thấy bóng lưng quen thuộc.
+//<0041> 見慣れた背中はすぐに見つかった。
+{24b9} 73 // 0041
+
+<0042> 
+//<0042> 
+
+<0043> Qua ánh đèn đầy bụi, Yumemi đang lang thang trên vỉa hè \nlát gạch trong buổi chiều tà.
+//<0043> 午後遅いタイル貼りの歩道、埃っぽい光の中を、ゆめみはしずしずと歩いていく。
+{28fd} 73 // 0043
+
+<0044> Tà váy của cô bé ― vốn đóng vai trò như khe tản nhiệt ― được \nxẻ thành năm phần, để lộ đôi chân quyến rũ.
+//<0044> 放熱用のスリットを兼ね、五分割されたスカート、そこから覗くきゃしゃな両脚。
+{2987} 73 // 0044
+
+<0045> Mái tóc dài rủ xuống hai bên, nhẹ nhàng đong đưa theo từng nhịp bước.
+//<0045> 左右に垂れた長い髪が、軽やかな足取りに合わせて揺れる。
+
+<0046> Nom như cô không hề lạc lối trong nơi mình cần đi, hay việc mình \nphải làm.
+//<0046> 自分のしていること、目指している場所に、何の迷いもない風に。
+{2a9b} 73 // 0046
+
+<0047> none
+//<0047> none
+
+<0048> 
+//<0048> 
+
+<0049> 
+//<0049> 
+
+<0050> Satomi
+//<0050> 里美
+
+<0051> 「Yume...」
+//<0051> 「ゆめ……」
+{32f9} 73 // 0051
+
+<0052> Satomi toan gọi Yumemi, nhưng vì lý do nào đó mà cô ngừng lại.
+//<0052> 声をかけようとして、里美はなぜか踏みとどまった。
+{3383} 73 // 0052
+
+<0053> 
+//<0053> 
+
+<0054> Satomi
+//<0054> 里美
+
+<0055> (Thử đi theo con bé xem sao.)
+//<0055> （追いかけてみよう）
+{3757} 73 // 0055
+
+<0056> Cô đi chậm lại và giữ nhịp thở của mình nhẹ hơn.
+//<0056> 歩調をゆるめ、小さく息を吐いた。
+{37e1} 73 // 0056
+
+<0057> Nếu chú ý quan sát hành động, thì biết đâu sẽ tìm ra được \nnguyên nhân khiến cô bé cứ "mất tích" không chừng.
+//<0057> 彼女の行動をつぶさに見ていけば、『失踪』の原因がわかるかもしれない。
+{386b} 73 // 0057
+
+<0058> Cô tự biện hộ như vậy.
+//<0058> それは自分への言い訳だった。
+{38f5} 73 // 0058
+
+<0059> 
+//<0059> 
+
+<0060> Satomi
+//<0060> 里美
+
+<0061> (Thật ra, có thể là mình đang sợ hãi.)
+//<0061> （本当は、恐くなったのかもね）
+{3cc9} 73 // 0061
+
+<0062> Satomi
+//<0062> 里美
+
+<0063> (Sợ rằng Yumemi sẽ rời xa nơi làm việc... rời xa mình mà chẳng màng ngoảnh lại.)
+//<0063> （わたしの職場から……わたしから脇目も振らず遠ざかっていくゆめみに声をかけるのが）
+{3ddb} 73 // 0063
+
+<0064> none
+//<0064> none
+
+<0065> 
+//<0065> 
+
+<0066> 
+//<0066> 
+
+<0067> Như muốn đi ngược lại với dòng người hướng về phía nhà ga, Yumemi \nrảo bước theo hướng tây bắc trên con đường chỉ cách khu phồn hoa một con phố.
+//<0067> 駅に向かう人の流れに逆らうように、ゆめみは繁華街から一本外れた通りを北西に歩いていく。
+{465c} 73 // 0067
+
+<0068> Trước mặt tiền của một cửa hàng đồ điện lớn, những mẫu robot \nđồng hành thế hệ mới nhất khoác lên mình nhiều bộ trang phục diễm lệ đang quảng cáo một
+//<0068> 大型電器店の店頭、流麗なコスチュームに身を包んだ最新型のコンパニオンロボットたちが、
+// flowing costumes là cái gì đây :(
+
+<0069> 
+//<0069> リアルビジョン
+
+<0070>  thiết bị truyền hình đa chiều độ nét cực cao.
+//<0070> 超高精細立体受像器
+{477c} 3d // 0070
+
+<0071> 
+//<0071> の実演をしている。
+{47cf} 73 // 0071
+
+<0072> Màn hình demo đang chiếu tin tức về những phi thuyền không gian bắt đầu khai thác lộ trình đến cảng Mặt Trăng đầu tiên.
+//<0072> デモ映像では、第一月面港航路に就航した宇宙往還機のニュースが流れている。
+{4859} 73 // 0072
+
+<0073> Các tiếp viên mặc đồng phục đang đứng tươi cười dọc lối đi cho khách cũng là những robot đồng hành được chế tác tại cùng một nơi với chỗ phi thuyền đó.
+//<0073> 客席通路で微笑んでいる制服姿のアテンダントたちも、宇宙船と同じメーカーのコンパニオンロボットだった。
+{48e3} 73 // 0073
+
+<0074> none
+//<0074> none
+
+<0075> 
+//<0075> 
+
+<0076> 
+//<0076> 
+
+<0077> Satomi
+//<0077> 里美
+
+<0078> (Quả thật, vũ trụ đang ngày càng gần chúng ta hơn.)
+//<0078> （たしかに宇宙は近くなったんだろう）
+{5141} 73 // 0078
+
+<0079> 
+//<0079> 
+
+<0080> Satomi
+//<0080> 里美
+
+<0081> (Nhất là với một bộ phận người giàu, kỹ sư thuộc địa và quân nhân.)
+//<0081> （一部の富裕層と植民技術者たち、それに軍人たちにとっては）
+{5515} 73 // 0081
+
+<0082> none
+//<0082> none
+
+<0083> 
+//<0083> 
+
+<0084> Một cậu nhân viên văn phòng băng qua đường mà không thèm nhìn \nđèn tín hiệu.
+//<0084> サラリーマンらしき若い男が、信号無視して通りを渡ってきた。
+{59dc} 73 // 0084
+
+<0085> 
+//<0085> 
+
+<0086> Anh ta định bước lên lề đường qua khoảng trống giữa thanh chắn, để \nrồi vai lại chạm vào Yumemi đang đi trên mép lề.
+//<0086> ガードレールの隙間から歩道に入ろうとして、端を歩くゆめみと肩が触れた。
+{5e52} 73 // 0086
+
+<0087> Nhân viên văn phòng
+//<0087> サラリーマン
+
+<0088> 「...muốn gì?」
+//<0088> 「……んだよ」
+{5fb1} 73 // 0088
+
+<0089> 
+//<0089> 
+
+<0090> Yumemi
+//<0090> ゆめみ
+
+<0091> 「Tôi thật sự xin lỗi, anh có sao không ạ?」
+//<0091> 「申し訳ありませんっ。お怪我はございませんか？」
+{6455} 73 // 0091
+
+<0092> Yumemi ngay lập tức dừng lại và cúi thấp đầu một cách không \ncần thiết.
+//<0092> ゆめみは一動作で立ち止まり、過剰に深々とお辞儀をする。
+{64df} 73 // 0092
+
+<0093> Khi nhận ra mình vừa va phải robot, mặt anh chàng lộ rõ vẻ lúng túng và nhanh chóng bỏ đi.
+//<0093> それがロボットだと気づくと、相手の男はバツが悪そうに横を向き、足早に離れていく。
+{65b6} 73 // 0093
+
+<0094> 
+//<0094> 
+
+<0095> Yumemi
+//<0095> ゆめみ
+
+<0096> 「Thật mừng vì anh không sao cả.」
+//<0096> 「お元気そうで安心しました」
+{6aa7} 73 // 0096
+
+<0097> 
+//<0097> 
+
+<0098> Yumemi
+//<0098> ゆめみ
+
+<0099> 「Giờ thì, tôi xin phép ạ.」
+//<0099> 「それでは、失礼します」
+{6f4b} 73 // 0099
+
+<0100> none
+//<0100> none
+
+<0101> 
+//<0101> 
+
+<0102> Yumemi nói với khoảng không rồi tiếp tục cất bước.
+//<0102> だれもいない空間に向けて言い、ゆめみもまた歩き出す。
+
+<0103> ――và đột nhiên khựng lại.
+//<0103> ――と、すぐにまた立ち止まった。
+{7536} 73 // 0103
+
+<0104> Satomi suýt nữa vấp chân, vội vã náu mình đằng sau biển hiệu của \nquán rượu.
+//<0104> つんのめりそうになった里美が、あわてて居酒屋の立て看板の陰に身を隠す。
+{75c0} 73 // 0104
+
+<0105> Cô lo lắng, chẳng lẽ mình đã bị phát hiện rồi sao.
+//<0105> 見つかったのかと思ったが、杞憂だった。
+{764a} 73 // 0105
+
+<0106> Yumemi tôn kính cúi chào hai bên trái phải, rồi đặt lòng bàn tay này lên mu bàn tay kia.
+//<0106> うやうやしい仕草で左右に会釈すると、ゆめみは両手の指先を重ね合わせた。
+{770f} 73 // 0106
+
+<0107> 
+//<0107> 
+
+<0108> Yumemi
+//<0108> ゆめみ
+
+<0109> 「Quý vị nghĩ thế nào về cung thiên văn?」
+//<0109> 「プラネタリウムはいかがでしょう？」
+{7bee} 73 // 0109
+
+<0110> 
+//<0110> 
+
+<0111> Yumemi
+//<0111> ゆめみ
+
+<0112> 「Bất kể lúc nào, quý vị cũng được ngắm nhìn những điều tuyệt vời, \nnhững tia sáng lấp lánh tưởng như vô tận. Vô vàn những vì sao \ntrong vũ trụ này đang chờ quý vị khám phá.」
+//<0112> 「どんな時も決して消えることのない、美しい無窮のきらめき。満天の星々が、みなさまをお待ちしています」
+{8092} 73 // 0112
+
+<0113> Với nụ cười mơ màng, cô bé mời gọi những người qua đường.
+//<0113> 夢見るように微笑みながら、道行く者に呼びかける。
+
+<0114> Ngay từ lần đầu nhận việc, cô gái này đã thu hút được một đám đông \nlớn.
+//<0114> 彼女の就任当初は、その声にすぐに人垣ができたものだ。
+{81a6} 73 // 0114
+
+<0115> Robot tiếp tân loại người máy thực tiễn tiên phong được chế tạo hoàn toàn dựa trên cơ sở Luật Cơ bản về việc vận hành những cỗ máy \ntự động mô phỏng con người, hay thường được gọi là "Luật Robot".
+//<0115> 世界に先駆けて施行された疑似人間型自律機械運用基本法、通称『ロボット法』に完全準拠し、はじめて実用されたアンドロイドタイプのコンパニオンロボット。
+{8230} 73 // 0115
+
+<0116> Cả người lớn và trẻ em đều dõi theo nhất cử nhất động của Yumemi, \nkhông giấu được sự tò mò và phấn khích.
+//<0116> 子供も大人も、興味と好奇心を隠そうとせず、ゆめみの一挙手一投足を眺めていた。
+{82ba} 73 // 0116
+
+<0117> Hẳn mọi người đều mường tượng ra biết bao viễn cảnh tương lai thông qua cô robot dạng thiếu nữ trông chẳng khác nào con người này.
+//<0117> 人間にそっくりな少女型ロボットの向こうに、皆、それぞれの未来を見ていたはずだ。
+{8344} 73 // 0117
+
+<0118> Thấm thoát mười năm trôi qua, robot giờ đây đã trở nên phổ biến.
+//<0118> それから１０年、今やロボットは当たり前の存在になった。
+{83ce} 73 // 0118
+
+<0119> Họ vừa là thành phần thiết yếu trong xã hội, nhưng đồng thời họ cũng gây ra đủ loại vấn đề.
+//<0119> 社会に不可欠なものであると同時に、さまざまな問題も引き起こしている。
+{8458} 73 // 0119
+
+<0120> Dù vậy, ấy là lẽ tất yếu.
+//<0120> だが、それは当たり前のことだ。
+
+<0121> Là điều không thể tránh khỏi.
+//<0121> 避けられないことだ。
+{856c} 73 // 0121
+
+<0122> Những con người sáng mắt lên khi lần đầu tiên chạm vào xe ô tô chắc chẳng bao giờ ngờ tới vấn đề ô nhiễm hay tai nạn giao thông mà nó \nđem lại.
+//<0122> 自動車にはじめて触れ、目を輝かせた人々は、公害問題や交通事故のことなど考えもしなかっただろうから。
+{85f6} 73 // 0122
+
+<0123> 
+//<0123> 
+
+<0124> Yumemi
+//<0124> ゆめみ
+
+<0125> 「Quý vị nghĩ thế nào về cung thiên văn?...」
+//<0125> 「プラネタリウムはいかがでしょう？……」
+{8a9a} 73 // 0125
+
+<0126> 
+//<0126> 
+
+<0127> Sau khi lặp lại bài văn hai lần, Yumemi dừng cử động một lúc, vẫn \ngiữ nguyên nụ cười thiên thần.
+//<0127> 決まり文句を２回繰り返すと、ゆめみは天使のような微笑みを保ったまま、しばし動きを止めた。
+{8ecc} 73 // 0127
+
+<0128> Một khi xác định được người quan tâm tới mình, cô bé sẽ in tờ rơi \nchương trình của ngày hôm nay, kéo ra khỏi khe thẻ ở tai trái và đưa chúng cho họ.
+//<0128> 興味を持った人間を確認したなら、彼女は今日のプログラムを印刷し、左耳のカードスロットから取り出して、手渡す。
+{8f56} 73 // 0128
+
+<0129> Đương nhiên, không ai đến gần cô cả.
+//<0129> もちろん、歩み寄って来る者はだれもいなかった。
+{8fe0} 73 // 0129
+
+<0130> none
+//<0130> none
+
+<0131> 
+//<0131> 
+
+<0132> Yumemi tiếp bước.
+//<0132> ゆめみはまた歩き出す。
+
+<0133> Satomi đi theo.
+//<0133> 里美も歩き出す。
+{957e} 73 // 0133
+
+<0134> none
+//<0134> none
+
+<0135> 
+//<0135> 
+
+<0136> none
+//<0136> none
+
+<0137> 
+//<0137> 
+
+<0138> none
+//<0138> none
+
+<0139> 
+//<0139> 
+
+<0140> none
+//<0140> none
+
+<0141> none
+//<0141> none
+
+<0142> 
+//<0142> 
+
+<0143> none
+//<0143> none
+
+<0144> 
+//<0144> 
+
+<0145> 
+//<0145> 
+
+<0146> Vụ bám đuôi lạ lùng đột ngột kết thúc.
+//<0146> 奇妙な尾行は唐突に終わりを迎えた。
+
+<0147> Cách xa con phố nhộn nhịp khoảng 2 km về phía tây bắc, là một \nkhu phố với hàng dài những căn chung cư cũ xếp san sát nhau.
+//<0147> 繁華街から北西に二キロほど離れ、古いマンションが建ち並ぶ街区。
+{a59b} 73 // 0147
+
+<0148> Lúc này đây, Satomi mới đâm lo rằng nơi này đã cách quá xa chỗ \nlàm việc.
+//<0148> 里美が職場のことを気にしはじめた時だった。
+
+<0149> Đột nhiên, Yumemi dừng bước.
+//<0149> まったく突然に、ゆめみが立ち止まった。
+{a6af} 73 // 0149
+
+<0150> Cô bé di chuyển phần trên cổ, nhìn xung quanh như đang tìm kiếm \ngì đó.
+//<0150> 首から上だけをスムースに動かし、何かを探すように辺りを見渡す。
+
+<0151> Cử chỉ này vô cùng quen thuộc.
+//<0151> その所作には見覚えがあった。
+{a7c3} 73 // 0151
+
+<0152> Cái hồi mà đến những hành vi cơ bản vẫn còn vụng về, mỗi lần pin yếu Yumemi sẽ đứng yên bất động, giữ nguyên tư thế chờ, làm cho \nmọi người ai cũng hoảng hồn.
+//<0152> まだ基本行動さえ怪しかった頃のゆめみは、バッテリーが低下すると所かまわず直立不動の待機姿勢を取って、周りを仰天させたものだ。
+{a84d} 73 // 0152
+
+<0153> Do đó Satomi đã dặn dò cô bé.
+//<0153> だから、里美が教えたのだ。
+{a8d7} 73 // 0153
+
+<0154> Rằng 『Khi nào pin yếu hoặc chuẩn bị vào chế độ ngủ thì ráng tìm chỗ nào mà ngồi xuống.』
+//<0154> 『バッテリーが少なくなった時や、スリープモードに入る時は、できるだけどこかに座ってね』と。
+{a961} 73 // 0154
+
+<0155> none
+//<0155> none
+
+<0156> 
+//<0156> 
+
+<0157> Ở cuối ngã ba có một công viên nhỏ.
+//<0157> Ｔ字路の奥に小さな児童公園があった。
+{ae28} 73 // 0157
+
+<0158> Đứng trước lối vào, Yumemi nhìn chằm chằm hai thanh chắn xe xếp song song nhau, chừng như đang phán đoán xem nó có đỡ được trọng lượng \ncủa mình không, rồi như đã quyết định, cô bé tới đó, ngồi xuống và \nngừng cử động.
+//<0158> その入り口に二つ並んだ車止めを見つけると、ゆめみはしばらくそれを――自分の重量を支えられるか判断するために――眺め、やがて意を決したように近づいて、ちょこんと腰掛け、そのまま動きを止めた。
+{aeff} 73 // 0158
+
+<0159> Chẳng khác nào một vở kịch câm của nghệ sĩ đường phố.
+//<0159> まるきり、大道芸人のパントマイムそのままだった。
+{af89} 73 // 0159
+
+<0160> 
+//<0160> 
+
+<0161> Satomi
+//<0161> 里美
+
+<0162> 「Hết pin mất rồi à, chết thật...」
+//<0162> 「バッテリー切れかあ。しまったな……」
+{b3aa} 73 // 0162
+
+<0163> Satomi lẩm bẩm.
+//<0163> 里美は思わずつぶやいた。
+{b434} 73 // 0163
+
+<0164> 
+//<0164> 
+
+<0165> Satomi
+//<0165> 里美
+
+<0166> (Dạo gần đây xô bồ quá nên mình quên mất không để ý lượng pin \ncòn lại...)
+//<0166> （ここのところ騒がしくて、残量を気にするのすっかり忘れてたな……）
+{b808} 73 // 0166
+
+<0167> Satomi
+//<0167> 里美
+
+<0168> (Huống hồ mình biết thừa việc liên tục tự động đi bộ sẽ rất hao pin rồi mà...)
+//<0168> （自律歩行を毎日繰り返せば、消耗が激しくなることはわかってたのに）
+{b91a} 73 // 0168
+
+<0169> Chắc vẫn có thể giao tiếp và truyền tin, song Yumemi lại không có \nkhả năng tự mình gọi dịch vụ sạc điện.
+//<0169> まだ会話や通信はできるはずだが、ゆめみには自力で充電サービスを呼ぶ機能はない。
+{b9a4} 73 // 0169
+
+<0170> Trong chế độ tiết kiệm pin, cô bé thậm chí còn chẳng thể đi bộ, nên nếu cứ để yên thì cô sẽ ngồi đó vĩnh viễn mất.
+//<0170> 節電状態では歩行まではできないから、いつまでもそこに座っているはずだ。
+{ba2e} 73 // 0170
+
+<0171> 
+//<0171> 
+
+<0172> Satomi
+//<0172> 里美
+
+<0173> 「Hờ...」
+//<0173> 「はぁ……」
+{be02} 73 // 0173
+
+<0174> none
+//<0174> none
+
+<0175> 
+//<0175> 
+
+<0176> Sau khi thở dài lần thứ bao nhiêu chẳng rõ, Satomi toan tiếp cận cô bé.
+//<0176> 何度目かわからない溜息をつき、里美が近づこうとした時だった。
+
+<0177> Thì chợt, một bé gái chạy lon ton ra khỏi công viên.
+//<0177> ちいさな女の子が、ぱたぱた走って公園から出てきた。
+{c3a0} 73 // 0177
+
+<0178> Cô bé đi giày đỏ, đội mũ đỏ
+//<0178> 赤い靴に赤い帽子、少し前に流行した
+
+<0179> 
+//<0179> ポーラーヤーン
+
+<0180> 
+//<0180> 人造毛糸
+{c4c0} 3d // 0180
+
+<0181>  và mặc chiếc áo khoác xinh xắn làm từ \nlen nhân tạo vốn từng là mốt một thời.
+//<0181> の可愛らしいコートを着ている。
+{c513} 73 // 0181
+
+<0182> Thấy Yumemi không cử động gì, cô bé tỏ vẻ lo lắng.
+//<0182> 動かなくなったゆめみのことを見つけ、女の子は心配そうに覗き込んだ。
+{c5ea} 73 // 0182
+
+<0183> 
+//<0183> 
+
+<0184> Yukino
+//<0184> ゆきの
+
+<0185> 「Chị ơi, chị có sao không?」
+//<0185> 「おねえちゃん、だいじょうぶ？」
+{ca69} 73 // 0185
+
+<0186> 
+//<0186> 
+
+<0187> Yumemi
+//<0187> ゆめみ
+
+<0188> 「Vâng, do tình trạng thiếu hụt năng lượng mà một vài chức năng đã \nbị giới hạn, nhưng tôi không dò ra được bộ phận nào bị hỏng hay \ntrục trặc cả.」
+//<0188> 「はい。ただ今バッテリー低下により一部機能が制限されていますが、故障及び不具合はなんら認められません」
+{cf0d} 73 // 0188
+
+<0189> Yumemi trả lời một cách nghiêm túc.
+//<0189> 生真面目に答えるゆめみ。
+
+<0190> Biểu cảm của cô trông cứ đơ đơ sao đó.
+//<0190> その表情もどこか冴えないように見える。
+{d021} 73 // 0190
+
+<0191> 
+//<0191> 
+
+<0192> Yumemi
+//<0192> ゆめみ
+
+<0193> 「Tôi xin lỗi vì đã để em phải lo lắng.」
+//<0193> 「ご心配をおかけして、本当に申し訳ありません」
+{d4c5} 73 // 0193
+
+<0194> Vẫn trong tư thế ngồi, cô cúi đầu và bày tỏ niềm tiếc nuối sâu sắc.
+//<0194> 座ったままぺこりと頭を下げ、深い遺憾の意を示す。
+{d54f} 73 // 0194
+
+<0195> Yukino
+//<0195> ゆきの
+
+<0196> 「??」
+//<0196> 「？？」
+{d661} 73 // 0196
+
+<0197> Nét mặt của cô bé cho thấy em chẳng hiểu mô tê gì cả.
+//<0197> 何だかわけがわからないのだろう、ただ不思議顔の女の子。
+
+<0198> Satomi chạy đến cạnh em, quỳ xuống cho ngang chiều cao của em rồi \ntừ tốn nói.
+//<0198> 里美は駈け寄ると、彼女の身長まで腰を落として、やさしく話しかけた。
+{d775} 73 // 0198
+
+<0199> 
+//<0199> 
+
+<0200> Satomi
+//<0200> 里美
+
+<0201> 「Em không phải lo đâu, chị gái này là robot mà.」
+//<0201> 「大丈夫よ。このお姉ちゃん、ロボットだから」
+{db49} 73 // 0201
+
+<0202> Yukino
+//<0202> ゆきの
+
+<0203> 「Chị ấy... là robot ư?」
+//<0203> 「おねえちゃん、ロボットなの？」
+{dc5b} 73 // 0203
+
+<0204> Cô bé tròn mắt và nhìn chằm chằm vào Yumemi.
+//<0204> 女の子は瞳を丸くして、ゆめみのことをまじまじと見つめる。
+{dce5} 73 // 0204
+
+<0205> 
+//<0205> 
+
+<0206> Yumemi
+//<0206> ゆめみ
+
+<0207> 「Vâng. Tôi là một robot.」
+//<0207> 「はい、ロボットです」
+{e189} 73 // 0207
+
+<0208> Yumemi trông yếu ớt hơn mọi khi, song vẫn nở nụ cười đầy tự hào.
+//<0208> 普段より弱々しく、それでも誇りを籠めて微笑んでみせるゆめみ。
+
+<0209> Cô bé kiễng chân, giơ nắm đấm nhỏ xíu của mình lên trời...
+//<0209> 女の子は背伸びをし、ちいさな拳を振り上げて……
+{e2d8} 73 // 0209
+
+<0210> 
+//<0210> 
+
+<0211> Yukino
+//<0211> ゆきの
+
+<0212> 「Hây!」
+//<0212> 「えいっ！」
+{e6f9} 73 // 0212
+
+<0213> 
+//<0213> 
+
+<0214> Rồi đánh vào đầu Yumemi.
+//<0214> ゆめみの頭をぽかっと殴った。
+
+<0215> Trong một khoảnh khắc, Satomi không hiểu chuyện gì đang xảy ra.
+//<0215> その一瞬、里美には何が起こったのかわからなかった。
+{ebc7} 73 // 0215
+
+<0216> Yukino
+//<0216> ゆきの
+
+<0217> 「Hây! Hây! Hây!...」
+//<0217> 「えいっ、えいっ、えいっ……」
+{ed26} 73 // 0217
+
+<0218> Hai lần, ba lần, bốn lần, cô bé đánh Yumemi không ngừng nghỉ.
+//<0218> ２回、３回、４回と、女の子はゆめみを執拗に叩く。
+{edfd} 73 // 0218
+
+<0219> Yumemi ngây người ra, chẳng rõ phải phản ứng thế nào.
+//<0219> どう反応したらいいのかわからないのだろう、ゆめみはきょとんとしている。
+{ee87} 73 // 0219
+
+<0220> Thấy không ăn thua, cô bé giơ cánh tay cao hơn.
+//<0220> 効果がないとわかると、女の子はもっと高く腕を振り上げる。
+{ef11} 73 // 0220
+
+<0221> 
+//<0221> 
+
+<0222> 
+//<0222> 
+
+<0223> Satomi
+//<0223> 里美
+
+<0224> 「Đừng...」
+//<0224> 「だめっ……」
+{f6f2} 73 // 0224
+
+<0225> Satomi bừng tỉnh, lập tức can thiệp.
+//<0225> 我に返った里美が、あわてて止めに入った。
+{f77c} 73 // 0225
+
+<0226> Mặc dù bị bao phủ trong các sợi trao đổi nhiệt được mô phỏng lại \ngiống như tóc, nhưng khung bên trong vẫn được tạo thành từ \nhợp kim titan và magiê.
+//<0226> 毛髪を模した熱交換繊維に覆われているとはいえ、その下の頭蓋はチタンとマグネシウムの合金製だ。
+{f853} 73 // 0226
+
+<0227> Dù chỉ là lực đánh của một đứa trẻ, thì đánh liên tục như thế cũng \nkhông thể nào bình an vô sự được.
+//<0227> たとえ子供の力でも、殴って無事で済むはずがない。
+{f8dd} 73 // 0227
+
+<0228> 
+//<0228> 
+
+<0229> Satomi
+//<0229> 里美
+
+<0230> 「Đưa tay chị xem nào? Em không bị thương chứ?」
+//<0230> 「お手々見せて？　怪我しなかった？」
+{fcb1} 73 // 0230
+
+<0231> Cô mở bàn tay phải nắm chặt của cô bé ra và kiểm tra.
+//<0231> ぎゅっと握った右手を開かせて調べる。
+
+<0232> Một bàn tay xinh xắn, tựa hồ chiếc lá thu gấp theo kiểu origami.
+//<0232> 折り紙でつくった紅葉のような、可愛らしい手のひら。
+{fdc5} 73 // 0232
+
+<0233> Đầu ngón tay của em đã ửng đỏ.
+//<0233> 指先が少し赤くなってしまっている。
+
+<0234> Bé gái chực khóc.
+//<0234> 女の子は今にも泣きそうだ。
+{fed9} 73 // 0234
+
+<0235> Song lại không khóc.
+//<0235> でも泣かない。
+
+<0236> Cô bé đang quyết liệt kìm nén cảm xúc.
+//<0236> 必死に我慢している。
+{ffed} 73 // 0236
+
+<0237> 
+//<0237> 
+
+<0238> Yukino
+//<0238> ゆきの
+
+<0239> 「Cha bảo...」
+//<0239> 「おとうさん、いってたもん」
+{103c1} 73 // 0239
+
+<0240> Chừng như em đang giận dữ.
+//<0240> 怒られると思ったのだろう。
+
+<0241> Bằng tông giọng yếu ớt, em lên tiếng với Satomi.
+//<0241> 弱々しい声で訴えかけるように、里美に言った。
+{104d5} 73 // 0241
+
+<0242> 
+//<0242> 
+
+<0243> Yukino
+//<0243> ゆきの
+
+<0244> 「Cha nói, tất cả chỉ vì robot... mà cha bị mất việc...」
+//<0244> 「ロボットがいるから、おしごとなくなっちゃったんだって」
+{108a9} 73 // 0244
+
+<0245> Đôi mắt vẫn nhìn thẳng vào Satomi, lệ từ từ đọng trên khóe mi em.
+//<0245> 里美を正面から見つめる瞳に、じわっと涙が浮かぶ。
+{10933} 73 // 0245
+
+<0246> 
+//<0246> 
+
+<0247> Mẹ của Yukino
+//<0247> ゆきのの母
+
+<0248> 「Yukino-chan, dừng lại đi con!」
+//<0248> 「ゆきのちゃん、ダメっ」
+{10d07} 73 // 0248
+
+<0249> Một người phụ nữ khoác theo túi mua đồ bằng vải kéo cô bé ra khỏi \nSatomi như muốn lôi em đi.
+//<0249> 布製の買い物袋を提げた女性が、女の子を奪うように里美から引き剥がした。
+{10d91} 73 // 0249
+
+<0250> Hẳn là mẹ của cô bé ấy.
+//<0250> 彼女の母親なのだろう。
+
+<0251> 
+//<0251> 
+
+<0252> Cô nhìn về phía Satomi ― vẫn đang quỳ gối ― ra chiều muốn cầu xin \ngì đó, rồi khẽ cúi đầu.
+//<0252> 中腰のままの里美に何かを乞うような視線を送り、ぺこりと頭を下げる。
+{11167} 73 // 0252
+
+<0253> Sau đó cô kéo tay bé gái và rời khỏi công viên.
+//<0253> そうして女の子の手を引っ張って、公園から遠ざかっていった。
+{1123e} 73 // 0253
+
+<0254> Trước khi rẽ vào con hẻm, người mẹ một lần nữa nhìn về phía này và \ncúi đầu xin lỗi.
+//<0254> 路地の角を曲がる時にこちらをそっと見て、もう一度、すまなそうに頭を下げてくれた。
+{11315} 73 // 0254
+
+<0255> Khi thân ảnh cô đã khuất khỏi tầm nhìn, Satomi vẫn chìm trong suy tư.
+//<0255> その姿が見えなくなっても、里美はまだ考えていた。
+{1139f} 73 // 0255
+
+<0256> 
+//<0256> 
+
+<0257> Satomi
+//<0257> 里美
+
+<0258> (Nếu cô bé kia lẫn người mẹ mà thái quá hơn rồi ra sức khiển trách \nmình và Yumemi...)
+//<0258> （あの母子がもっと傍若無人なわからず屋で、ゆめみとわたしを本気でなじってくれたら……）
+{11773} 73 // 0258
+
+<0259> 
+//<0259> 
+
+<0260> Satomi
+//<0260> 里美
+
+<0261> (...thì có lẽ cảm xúc của mình đã không phức tạp thế này.)
+//<0261> （……こんなに複雑な思いをしなくて済むのにね）
+{11b47} 73 // 0261
+
+<0262> 
+//<0262> 
+
+<0263> Yumemi vẫn đang ngồi trên thanh chắn xe như thể chưa có chuyện gì \nxảy ra.
+//<0263> 何事もなかったかのように、ゆめみは車止めに腰掛けている。
+{11f3e} 73 // 0263
+
+<0264> 
+//<0264> 
+
+<0265> Satomi
+//<0265> 里美
+
+<0266> 「Yumemi-chan, em có đau không?」
+//<0266> 「ゆめみちゃん、痛かったでしょ？」
+{12312} 73 // 0266
+
+<0267> 
+//<0267> 
+
+<0268> Yumemi
+//<0268> ゆめみ
+
+<0269> 「Không ạ, xin chớ lo lắng. Tôi là một robot, vậy nên tôi không thể cảm thấy đau đớn được.」
+//<0269> 「いいえ、どうぞご心配なさらないでください。わたしはロボットですので、苦痛を感じることはありません」
+{127b6} 73 // 0269
+
+<0270> Cô bé nở nụ cười thanh nhã, như đang quan tâm tới Satomi.
+//<0270> 里美に気を遣っているかのように、控えめに微笑む。
+{12840} 73 // 0270
+
+<0271> 
+//<0271> 
+
+<0272> Satomi
+//<0272> 里美
+
+<0273> (Yumemi hẳn là không hề biết.)
+//<0273> （ゆめみはきっと知らない）
+{12c14} 73 // 0273
+
+<0274> Satomi
+//<0274> 里美
+
+<0275> (Rằng nỗi đau em ấy đáng ra phải nhận, đều đã được những người liên quan đến em ấy hứng chịu cả rồi.)
+//<0275> （彼女が感じるはずの痛みは、彼女に関わる人間たちが受け持ってるっていうことを）
+{12d26} 73 // 0275
+
+<0276> Satomi
+//<0276> 里美
+
+<0277> (Để những người yêu quý robot, và những người chán ghét chúng đều \nđược bình đẳng.)
+//<0277> （ロボットを愛する者も、ロボットを憎む者も、きっと平等に）
+{12e38} 73 // 0277
+
+<0278> 
+//<0278> 
+
+<0279> Satomi
+//<0279> 里美
+
+<0280> 「Thôi thì, trước hết mình phải về cái đã.」
+//<0280> 「とにかく戻らないとね」
+{1320c} 73 // 0280
+
+<0281> 
+//<0281> 
+
+<0282> Satomi
+//<0282> 里美
+
+<0283> 「À mà, em không sạc điện thì sao mà đi được nhỉ.」
+//<0283> 「って、バッテリー再充電しないと歩けないか」
+{135e0} 73 // 0283
+
+<0284> 
+//<0284> 
+
+<0285> Yumemi
+//<0285> ゆめみ
+
+<0286> 「Vâng, tôi thành thật xin lỗi. Pin dự phòng cũng sắp cạn, nên tôi \nkhông thể nào đi lại được nữa.」
+//<0286> 「はい。申し訳ありません。バックアップ用電池も消耗していますので、歩行は不可能です」
+{13a84} 73 // 0286
+
+<0287> 
+//<0287> 
+
+<0288> Satomi
+//<0288> 里美
+
+<0289> 「Vậy là coi như liệt toàn thân rồi còn gì. Hết chuyện này tới \nchuyện khác, gì cũng đến tay mình...」
+//<0289> 「つまり満身創痍ってことね。次から次へとよくもまあ手がかかる……」
+{13e58} 73 // 0289
+
+<0290> Việc kiểm tra và thay thế nguồn điện dự phòng là bắt buộc, nhưng \nchính Satomi đã quyết định để yên như thế do ngân sách không cho \nphép.
+//<0290> バックアップ用電池の点検交換は義務だが、そこまで予算を回せないからと放置しておいたのは里美自身だ。
+{13ee2} 73 // 0290
+
+<0291> Rồi chuyện này xảy ra, và Satomi chẳng thể nào một mình mang cô bé \nra trạm sạc được, thật chẳng có cách nào diễn tả tốt hơn bằng \n"tự làm tự chịu".
+//<0291> こうなってしまったら、里美独りで充電スタンドまで担いでいくのは不可能、自業自得という他はない。
+{13f6c} 73 // 0291
+
+<0292> 
+//<0292> 
+
+<0293> Satomi
+//<0293> 里美
+
+<0294> 「...Giờ đâu phải lúc để phàn nàn chứ. Để chị gọi xe, em ngồi \nchờ chút nhé.」
+//<0294> 「……愚痴言ってる場合じゃないか。今、車呼ぶから、ちょっと待っててね」
+{1438d} 73 // 0294
+
+<0295> 
+//<0295> 
+
+<0296> Cô nói, đoạn rút điện thoại di động ra khỏi túi áo khoác.
+//<0296> コートのポケットから携帯電話を出しながら言う。
+{147d1} 73 // 0296
+
+<0297> Không có tiếng đáp lại.
+//<0297> 返事は返ってこない。
+{1485b} 73 // 0297
+
+<0298> 
+//<0298> 
+
+<0299> Satomi
+//<0299> 里美
+
+<0300> 「Yumemi-chan?」
+//<0300> 「ゆめみちゃん？」
+{14c2f} 73 // 0300
+
+<0301> Mặc cho cô gọi tên thì Yumemi cũng không cử động nữa.
+//<0301> 呼びかけられても、ゆめみはぴくりとも動かない。
+
+<0302> Vẫn với biểu cảm như mọi khi trên khuôn mặt, cô bé đóng băng theo \nđúng nghĩa đen.
+//<0302> いつもの表情を浮かべたまま、文字通り凍りついてしまっている。
+{14d43} 73 // 0302
+
+<0303> Có vẻ như pin đã hoàn toàn cạn rồi.
+//<0303> 完全にバッテリーが切れてしまったらしい。
+{14dcd} 73 // 0303
+
+<0304> Bình thường cô bé sẽ cảnh báo đếm ngược 100 giây trước khi hết pin, nhưng lần này có vẻ như đến thời gian để làm vậy còn không có.
+//<0304> 本来なら警告と共に百秒単位のカウントを口にするはずなのだが、その暇もなかったようだった。
+{14e57} 73 // 0304
+
+<0305> Bất kể có hiểu cho cảm nhận của Satomi hay không, thì cô robot \nrắc rối kia cứ thế trở lại thành một vật thể vô tri cỡ người thật, \nmặc kệ sự đời có ra sao.
+//<0305> こっちの気持ちを知ってか知らずか、手のかかるロボットは自分だけさっさと悩みのない等身大オブジェに戻って、あとは知らん顔だった。
+{14ee1} 73 // 0305
+
+<0306> 
+//<0306> 
+
+<0307> Satomi
+//<0307> 里美
+
+<0308> 「Trời ạ...」
+//<0308> 「もうっ……」
+{152b5} 73 // 0308
+
+<0309> Satomi đấm nhẹ vào cái đầu đá kia.
+//<0309> その石頭を、拳でこつん、と小突いてみる。
+
+<0310> Quả nhiên là có hơi đau một chút.
+//<0310> やっぱり、少し痛かった。
+{153c9} 73 // 0310
+
+<0311> Satomi cất điện thoại đi.
+//<0311> 里美は携帯電話をしまった。
+
+<0312> none
+//<0312> none
+
+<0313> 
+//<0313> 
+
+<0314> Cô kéo áo khoác lên, rồi ngồi xuống thanh chắn xe bên cạnh Yumemi.
+//<0314> コートの裾を寄せ、ゆめみの隣の車止めに腰掛ける。
+{1591a} 73 // 0314
+
+<0315> none
+//<0315> none
+
+<0316> 
+//<0316> 
+
+<0317> none
+//<0317> none
+
+<0318> 
+//<0318> 
+
+<0319> none
+//<0319> none
+
+<0320> 
+//<0320> 
+
+<0321> none
+//<0321> none
+
+<0322> none
+//<0322> none
+
+<0323> 
+//<0323> 
+
+<0324> none
+//<0324> none
+
+<0325> 
+//<0325> 
+
+<0326> Thời khắc chạng vạng đang đến gần.
+//<0326> もう夕暮れが近い。
+
+<0327> Cô cảm nhận cái lạnh mơn trớn bờ má mình.
+//<0327> 頬に触れていく風の冷たさに気づいた。
+{165ea} 73 // 0327
+
+<0328> Satomi
+//<0328> 里美
+
+<0329> (Chắc mấy đứa nó đang chuẩn bị cho buổi chiếu cuối trong ngày nhỉ?)
+//<0329> （そろそろ最終投影の準備中のはず）
+{166fc} 73 // 0329
+
+<0330> Những đồng nghiệp đứng ở quầy lễ tân, căn phòng hình cầu chưa được \nlấp đầy ghế bao nhiêu năm rồi chẳng rõ.
+//<0330> 受け付けに立つ同僚たち、もう何年も満席になることがない円形の部屋。
+{16786} 73 // 0330
+
+<0331> Satomi
+//<0331> 里美
+
+<0332> (Một nơi làm việc đáng ra phải được xác định là sự nghiệp cả đời...)
+//<0332> （一生の仕事だと決めたはずの職場……）
+{16898} 73 // 0332
+
+<0333> Satomi
+//<0333> 里美
+
+<0334> (Vậy mà chỉ có mình mình và Yumemi là đang ngồi cách xa cái \nkhuôn khổ thường nhật đó.)
+//<0334> （なのにわたしとゆめみだけが、そんな日々の枠組みから遠く離れて座ってる）
+{169aa} 73 // 0334
+
+<0335> none
+//<0335> none
+
+<0336> 
+//<0336> 
+
+<0337> none
+//<0337> none
+
+<0338> none
+//<0338> none
+
+<0339> 
+//<0339> 
+
+<0340> none
+//<0340> none
+
+<0341> 
+//<0341> 
+
+<0342> Cô khẽ nghiêng tầm nhìn.
+//<0342> 視線を傾げる。
+{17027} 73 // 0342
+
+<0343> Bầu trời đô thị nhàn nhạt trầm buồn, khó mà gọi là mang sắc xanh, \nxuất hiện giữa khe hở những tòa chung cư cũ.
+//<0343> 古いマンションの谷間に挟まれているのは、空色とはとても呼べない、褪せてくすんだ都会の空。
+{170b1} 73 // 0343
+
+<0344> Khi cô còn nhỏ, cảm giác như nó trông rực rỡ và có nhiều gam màu \nsắc nét hơn hẳn.
+//<0344> 自分が子供の頃は、それはもっと、鮮やかで深い色をたたえていた気がする。
+{1713b} 73 // 0344
+
+<0345> Satomi
+//<0345> 里美
+
+<0346> 「Có lẽ mình đã quên đi mục tiêu ban đầu mất rồi...」
+//<0346> 「初心を忘れてるなあ……」
+{1724d} 73 // 0346
+
+<0347> Satomi lẩm bẩm.
+//<0347> 里美はつぶやいた。
+{172d7} 73 // 0347
+
+<0348> Satomi
+//<0348> 里美
+
+<0349> (Sẽ là nói dối nếu bảo mình không có động cơ âm thầm, mong muốn tự \nmình tăng doanh thu trong lúc giám đốc đi vắng.)
+//<0349> （館長がいない間に、わたしたちだけで少しでも営業成績を上げられればっていう下心がなかったと言えば嘘になる）
+{173e9} 73 // 0349
+
+<0350> Satomi
+//<0350> 里美
+
+<0351> (Tìm cách bóc tách từng vấn đề và cải thiện chúng theo cảm tính, cốt để chốn sinh nhai này và bọn mình không bị bỏ rơi...)
+//<0351> （わたしたちが普段感じていた問題点や改善点を洗い直して、この職場もわたしたちもまだまだ捨てたものじゃない……）
+{174fb} 73 // 0351
+
+<0352> Satomi
+//<0352> 里美
+
+<0353> (Xem như đây là một dịp tốt để nhìn nhận lại vậy.)
+//<0353> （そう考え直すいいチャンスだ、って）
+{1760d} 73 // 0353
+
+<0354> Satomi
+//<0354> 里美
+
+<0355> (...Là bọn mình... phải không nhỉ?)
+//<0355> （……わたしたち、じゃないか）
+{1771f} 73 // 0355
+
+<0356> Satomi
+//<0356> 里美
+
+<0357> (Hay nói đúng ra, là chỉ mỗi mình mình?)
+//<0357> （正確には、わたしだけ、だ）
+{17831} 73 // 0357
+
+<0358> none
+//<0358> none
+
+<0359> 
+//<0359> 
+
+<0360> none
+//<0360> none
+
+<0361> none
+//<0361> none
+
+<0362> 
+//<0362> 
+
+<0363> none
+//<0363> none
+
+<0364> 
+//<0364> 
+
+<0365> Satomi
+//<0365> 里美
+
+<0366> 「Nè, Yumemi-chan.」
+//<0366> 「ねえ、ゆめみちゃん」
+{17f36} 73 // 0366
+
+<0367> Satomi bắt chuyện với Yumemi trong lúc ngắm nhìn bầu trời tối dần.
+//<0367> 狭くなった空を見上げたまま、里美はゆめみに話しかける。
+{17fc0} 73 // 0367
+
+<0368> Satomi
+//<0368> 里美
+
+<0369> 「Em có mệt mỏi với công việc không?」
+//<0369> 「お仕事、嫌になっちゃったの？」
+{180d2} 73 // 0369
+
+<0370> Không lời hồi đáp.
+//<0370> 返事はない。
+{1815c} 73 // 0370
+
+<0371> Satomi
+//<0371> 里美
+
+<0372> 「Em không thích làm việc cùng bọn chị nữa sao?」
+//<0372> 「わたしたちと一緒にいるの、嫌になっちゃったの？」
+{1826e} 73 // 0372
+
+<0373> Dù biết thừa rằng mình sẽ không nhận được câu trả lời, Satomi vẫn \ntiếp lời.
+//<0373> 答えが得られないのを知りながら、知っているから、里美は言葉を続ける。
+{182f8} 73 // 0373
+
+<0374> Satomi
+//<0374> 里美
+
+<0375> 「Chị ấy nhé, chị từng tin rằng mình sẽ không bao giờ thay đổi.」
+//<0375> 「わたしね、自分はいつまでも変わらないんだって、ずっと思ってたの」
+{1840a} 73 // 0375
+
+<0376> Satomi
+//<0376> 里美
+
+<0377> 「Chị đã luôn nghĩ, rằng vì mình thích những vì sao, vì mình thích \ncung thiên văn, nên mới có thể tiếp tục được công việc này.」
+//<0377> 「いつまでも星が好きで、プラネタリウムが好きで、だからいつまでも、この仕事を続けられるんだって」
+{1851c} 73 // 0377
+
+<0378> Cô nhắm mắt lại và hồi tưởng.
+//<0378> ぎゅっと目をつぶり、思い出す。
+{185a6} 73 // 0378
+
+<0379> none
+//<0379> none
+
+<0380> 
+//<0380> 
+
+<0381> none
+//<0381> none
+
+<0382> 
+//<0382> 
+
+<0383> none
+//<0383> none
+
+<0384> 
+//<0384> 
+
+<0385> none
+//<0385> none
+
+<0386> none
+//<0386> none
+
+<0387> 
+//<0387> 
+
+<0388> none
+//<0388> none
+
+<0389> 
+//<0389> 
+
+<0390> Satomi
+//<0390> 里美
+
+<0391> (Hồi lên sáu, ba mẹ đã tặng mình một cuốn sách tranh về Thần thoại \nHy Lạp làm quà sinh nhật.)
+//<0391> （６歳の頃、誕生日のプレゼントで両親に買ってもらったギリシア神話の絵本）
+{191fe} 73 // 0391
+
+<0392> Satomi
+//<0392> 里美
+
+<0393> (Hồi 11 tuổi, mình từng làm một cung thiên văn bằng giấy trong \nkỳ nghỉ hè và lần đầu tiên chiếu nó lên trần phòng.)
+//<0393> （１１歳の頃、夏休みの工作で作った紙製のプラネタリウムを、はじめて部屋の天井に投影した時のこと）
+{19310} 73 // 0393
+
+<0394> Satomi
+//<0394> 里美
+
+<0395> (15 tuổi, ba mẹ đưa mình về quê tránh nóng, và đấy cũng là \nlần đầu tiên mình được thấy bầu trời sao đúng nghĩa.)
+//<0395> （１５歳の頃、両親に連れられて避暑に行った田舎で、はじめて本物の星を見た時のこと）
+{19422} 73 // 0395
+
+<0396> Satomi
+//<0396> 里美
+
+<0397> (Năm 18 tuổi, nghe rằng có một cung thiên văn đang xây dựng trên sân thượng cửa hàng bách hóa địa phương và hiện tuyển chọn thuyết trình viên, nên dù hồi hộp quá chừng, mình vẫn gọi điện cho họ.)
+//<0397> （１８歳の頃、地元デパートの屋上にプラネタリウムができ、解説員を募集していると知って、どきどきしながら電話をかけた時のこと）
+{19534} 73 // 0397
+
+<0398> Satomi
+//<0398> 里美
+
+<0399> (Những bối rối, dằn vặt, và cả mâu thuẫn khi còn là lính mới.)
+//<0399> （新米だった頃の困惑、奮闘、それに葛藤）
+{19646} 73 // 0399
+
+<0400> Satomi
+//<0400> 里美
+
+<0401> (Nỗi căng thẳng khi lần đầu tiên được giao cho công việc \nthuyết trình một mình.)
+//<0401> （はじめて単独で解説を任された時の緊張）
+{19758} 73 // 0401
+
+<0402> Satomi
+//<0402> 里美
+
+<0403> (Và cả cái ngày mà giám đốc lệnh cho mình giám sát cô bé robot đồng hành này nữa...)
+//<0403> （そして、コンパニオンロボットの監督をしろと館長に仰せつかった日のこと……）
+{1986a} 73 // 0403
+
+<0404> none
+//<0404> none
+
+<0405> 
+//<0405> 
+
+<0406> none
+//<0406> none
+
+<0407> 
+//<0407> 
+
+<0408> none
+//<0408> none
+
+<0409> 
+//<0409> 
+
+<0410> none
+//<0410> none
+
+<0411> none
+//<0411> none
+
+<0412> 
+//<0412> 
+
+<0413> none
+//<0413> none
+
+<0414> 
+//<0414> 
+
+<0415> Cô mở mắt, và khẽ ngắm Yumemi.
+//<0415> 瞳を開き、ゆめみをそっと窺う。
+{1a408} 73 // 0415
+
+<0416> Tại nơi ngoại ô thành phố này, tại chốn ven đường lộng gió này, dẫu cho bản thân không thể tự mình cử động, thì cô bé ấy... cô bé ấy vẫn là người duy nhất mang vẻ vô tư, dịu dàng, trong sáng và hạnh phúc.
+//<0416> こんな街外れの、吹きっさらしの道端、自分の力では動くこともできなくなってしまっても、彼女は……彼女だけは脳天気で、やさしくて、純粋で、幸せそのものに見えた。
+{1a492} 73 // 0416
+
+<0417> Satomi
+//<0417> 里美
+
+<0418> 「Nhưng Yumemi-chan này, đừng bao giờ thay đổi em nhé.」
+//<0418> 「ゆめみちゃんだけは、いつまでも変わらないでいてね」
+{1a5a4} 73 // 0418
+
+<0419> Satomi nhẹ nhàng nói với khuôn mặt trông nghiêng đã cứng đờ lại kia.
+//<0419> 凍りついたままの横顔に、里美はそっとつぶやいた。
+{1a62e} 73 // 0419
+
+<0420> Satomi
+//<0420> 里美
+
+<0421> 「Dẫu cho một ngày nào đó chị phải rời đi, thì Yumemi-chan cũng đừng bao giờ thay đổi nhé.」
+//<0421> 「わたしがいつか、いなくなったとしても、ゆめみちゃんは変わらないでいてね」
+{1a740} 73 // 0421
+
+<0422> none
+//<0422> none
+
+<0423> 
+//<0423> 
+
+<0424> none
+//<0424> none
+
+<0425> none
+//<0425> none
+
+<0426> 
+//<0426> 
+
+<0427> none
+//<0427> none
+
+<0428> 
+//<0428> 
+
+<0429> Yumemi
+//<0429> ゆめみ
+
+<0430> 「Xin thứ lỗi cho tôi, chị định rời công ty sao?」
+//<0430> 「失礼ですが、寿退社なさるのですか？」
+{1ae45} 73 // 0430
+
+<0431> Satomi
+//<0431> 里美
+
+<0432> 「Chị không có, nhưng mà...」
+//<0432> 「しないけど……」
+{1af57} 73 // 0432
+
+<0433> Sau câu trả lời, cô chợt nhận ra.
+//<0433> 答えてから、はっと気づく。
+
+<0434> Yumemi đang nở nụ cười như chưa hề xảy ra chuyện gì.
+//<0434> 何事もなかったかのようにゆめみが微笑んでいた。
+{1b06b} 73 // 0434
+
+<0435> none
+//<0435> none
+
+<0436> 
+//<0436> 
+
+<0437> none
+//<0437> none
+
+<0438> none
+//<0438> none
+
+<0439> 
+//<0439> 
+
+<0440> none
+//<0440> none
+
+<0441> 
+//<0441> 
+
+<0442> Satomi
+//<0442> 里美
+
+<0443> 「Oái, Yumemi-chan?!」
+//<0443> 「って、ゆめみちゃん！？」
+{1b74b} 73 // 0443
+
+<0444> Yumemi
+//<0444> ゆめみ
+
+<0445> 「Tôi sẽ không bao giờ thay đổi, tôi sẽ mãi mãi làm việc ở đây, cùng với Satomi-san và mọi người.」
+//<0445> 「わたしはいつまでも変わりません。里美さんと、スタッフのみなさんと、いつまでも働くことができます」
+{1b882} 73 // 0445
+
+<0446> Đôi mắt nhựa của cô chuyển sang màu như vết dầu loang, thấu kính bên trong được lấy nét, và quan sát Satomi đang bối rối một cách điệu đà.
+//<0446> 油膜のように色を変える光学樹脂の瞳、インナーレンズごときゅっと焦点を合わせ、呆然とする里美のことをたおやかに見つめている。
+{1b90c} 73 // 0446
+
+<0447> Cứ như vừa bị lừa vậy.
+//<0447> まるで、狐につままれたようだった。
+{1b996} 73 // 0447
+// 狐につままれる: Bị cáo véo / Bị lừa, mặt thộn ra :v
+
+<0448> Satomi
+//<0448> 里美
+
+<0449> 「Yumemi-chan... không phải em vừa hết pin à?」
+//<0449> 「ゆめみちゃん……あなた、バッテリー切れじゃなかったの？」
+{1baa8} 73 // 0449
+
+<0450> Yumemi
+//<0450> ゆめみ
+
+<0451> 「Vâng. Nói chính xác thì, tôi có thể kéo dài khả năng hoạt động \nthêm 800 giây nữa trong chế độ tiết kiệm pin.」
+//<0451> 「はい。本当のことを申しますと、節電モードでしたらあと８００秒間稼働可能です」
+{1bbdf} 73 // 0451
+
+<0452> none
+//<0452> none
+
+<0453> 
+//<0453> 
+
+<0454> none
+//<0454> none
+
+<0455> none
+//<0455> none
+
+<0456> 
+//<0456> 
+
+<0457> none
+//<0457> none
+
+<0458> 
+//<0458> 
+
+<0459> Satomi
+//<0459> 里美
+
+<0460> 「Thế có nghĩa là em đã nói dối chị?　Em có thể làm được việc đó ư?」
+//<0460> 「って、嘘ついたの？　そんなことできるの？」
+{1c2bf} 73 // 0460
+
+<0461> Yumemi
+//<0461> ゆめみ
+
+<0462> 「Thưa không. Tôi là một robot, nên tôi không thể nói dối.」
+//<0462> 「いいえ。わたしはロボットですので、嘘をつくことはできません」
+{1c3f6} 73 // 0462
+
+<0463> Cô trả lời, quả quyết và kiên định.
+//<0463> 一点の曇りもなく、堂々と答える。
+{1c480} 73 // 0463
+
+<0464> Yumemi
+//<0464> ゆめみ
+
+<0465> 「Hôm qua mọi người đã nói với tôi rằng, "Thỉnh thoảng em nên \nlắng nghe Satomi-san than thở một chút nhé."」
+//<0465> 「昨日、みなさんは、たまには里美さんの愚痴を聞いてあげて、とおっしゃいました」
+{1c5b7} 73 // 0465
+
+<0466> Satomi
+//<0466> 里美
+
+<0467> 「Than thở?」
+//<0467> 「愚痴？」
+{1c6c9} 73 // 0467
+
+<0468> Yumemi
+//<0468> ゆめみ
+
+<0469> 「Vâng, mọi người bảo, "Có những chuyện mà con người sẽ chỉ nói với robot, vì vậy nếu em ở một mình cùng Satomi-san, hãy giữ yên lặng và lắng nghe chị ấy than thở."」
+//<0469> 「はい。人間にはロボットにしか話せないことがあるから、里美さんとふたりきりになった時に、何も言わずに愚痴を聞いてあげて、とおっしゃいました」
+{1c800} 73 // 0469
+
+<0470> Satomi
+//<0470> 里美
+
+<0471> 「Mọi người... nói vậy sao?」
+//<0471> 「それを……みんなが？」
+{1c912} 73 // 0471
+
+<0472> Yumemi
+//<0472> ゆめみ
+
+<0473> 「Vâng, tôi xác định đây là một chỉ thị có liên quan mật thiết đến \nsức khỏe của Satomi-san, nên tôi đã đăng ký chuyện này là nhiệm vụ ưu tiên.」
+//<0473> 「はい。里美さんの健康に関わる重大事項と判断しましたので、職務上の優先事項として登録しました」
+{1ca49} 73 // 0473
+
+<0474> Trước lời giải thích lưu loát của Yumemi, Satomi không khỏi \nngạc nhiên song cũng thấy xấu hổ.
+//<0474> 淀みなく説明するゆめみに、呆れるやら照れるやらの里美。
+{1cad3} 73 // 0474
+
+<0475> Nếu biết cách sử dụng các mệnh lệnh ưu tiên, ta có thể điều khiển \nhành vi của Yumemi ― vốn không hề linh hoạt ― đến một \nmức độ nào đó.
+//<0475> 優先命令をうまく使えば、本来融通の利かないゆめみの言動をある程度コントロールできる。
+{1cb5d} 73 // 0475
+
+<0476> Đó là điều Satomi đã dạy các hậu bối của mình.
+//<0476> 後輩たちにそれを教えたのは他ならぬ里美だ。
+
+<0477> Nhưng cô chưa bao giờ nghĩ bọn họ sẽ áp dụng theo cách này.
+//<0477> だが、それをこんな風に利用できるとは思ってもいなかった。
+{1cc71} 73 // 0477
+
+<0478> none
+//<0478> none
+
+<0479> 
+//<0479> 
+
+<0480> none
+//<0480> none
+
+<0481> none
+//<0481> none
+
+<0482> 
+//<0482> 
+
+<0483> none
+//<0483> none
+
+<0484> 
+//<0484> 
+
+<0485> Cô tưởng tượng ra những nét mặt tinh quái của đồng nghiệp tại \nnơi làm việc.
+//<0485> 職場の仲間たちの悪戯顔を思い浮かべる。
+{1d2c9} 73 // 0485
+
+<0486> Satomi
+//<0486> 里美
+
+<0487> (Họ đều quan tâm tới mình trong khi mình thì chẳng làm được gì...)
+//<0487> （空回りしていたわたしのこと、みんな気にかけていてくれたんだ……）
+{1d3db} 73 // 0487
+
+<0488> Nghĩ đến đây, bất giác cô nhớ ra.
+//<0488> そこまで考えて、はっと思い当たった。
+{1d465} 73 // 0488
+
+<0489> none
+//<0489> none
+
+<0490> 
+//<0490> 
+
+<0491> none
+//<0491> none
+
+<0492> none
+//<0492> none
+
+<0493> 
+//<0493> 
+
+<0494> none
+//<0494> none
+
+<0495> 
+//<0495> 
+
+<0496> Satomi
+//<0496> 里美
+
+<0497> 「Lẽ nào, việc em tự ý chạy ra ngoài thế này là để làm như vậy hả?」
+//<0497> 「もしかしたら、こうやって勝手に出歩いてるのも、わかっててやってる？」
+{1db45} 73 // 0497
+
+<0498> Yumemi
+//<0498> ゆめみ
+
+<0499> 「Vâng?」
+//<0499> 「はい？」
+{1dc7c} 73 // 0499
+
+<0500> Vẫn là cái cử chỉ khẽ nghiêng đầu như mọi khi.
+//<0500> いつものきょとんと小首を傾げる動作。
+
+<0501> Rồi, cơ hồ vừa nghĩ ra gì đó...
+//<0501> そして何事か考えて……
+{1dd90} 73 // 0501
+
+<0502> none
+//<0502> none
+
+<0503> 
+//<0503> 
+
+<0504> none
+//<0504> none
+
+<0505> none
+//<0505> none
+
+<0506> 
+//<0506> 
+
+<0507> none
+//<0507> none
+
+<0508> 
+//<0508> 
+
+<0509> Yumemi
+//<0509> ゆめみ
+
+<0510> 「Tôi thành thật xin lỗi!」
+//<0510> 「申し訳ありませんっ！」
+{1e495} 73 // 0510
+
+<0511> Yumemi
+//<0511> ゆめみ
+
+<0512> 「Giờ nghĩ lại, hành động của tôi đã vi phạm nghiêm trọng nguyên tắc công việc! Tôi thật sự... thật sự xin lỗi ạ!」
+//<0512> 「今、こうして思い返してみますと、わたしの行為は重大な職務規程違反です、本当に本当に申し訳ありません！」
+{1e5cc} 73 // 0512
+
+<0513> Cô bé khẩn khoản cúi đầu.
+//<0513> ひたすらぺこぺこ頭を下げる。
+{1e656} 73 // 0513
+
+<0514> Do chế độ tiết kiệm pin mà hành động của cô bé thiếu đi sự sắc sảo, nhưng cái cách cô đột ngột thay đổi thái độ vẫn luôn ngoạn mục \nnhư vậy.
+//<0514> 節電モードのため動作がキレに欠けるが、それでもいつもながら、見事な豹変っぷりだった。
+{1e6e0} 73 // 0514
+
+<0515> none
+//<0515> none
+
+<0516> 
+//<0516> 
+
+<0517> none
+//<0517> none
+
+<0518> none
+//<0518> none
+
+<0519> 
+//<0519> 
+
+<0520> none
+//<0520> none
+
+<0521> 
+//<0521> 
+
+<0522> Không còn sốc và giận nữa, Satomi bật cười.
+//<0522> 最早怒る気も呆れる気もなくし、里美はぷっと吹き出した。
+{1ed38} 73 // 0522
+
+<0523> Satomi
+//<0523> 里美
+
+<0524> (Thôi kệ vậy.)
+//<0524> （まあいっか）
+{1ee4a} 73 // 0524
+
+<0525> Satomi
+//<0525> 里美
+
+<0526> (Làm gì có con người nào không có khuyết điểm kia chứ.)
+//<0526> （欠点のない人なんていないんだから）
+{1ef5c} 73 // 0526
+
+<0527> none
+//<0527> none
+
+<0528> 
+//<0528> 
+
+<0529> none
+//<0529> none
+
+<0530> none
+//<0530> none
+
+<0531> 
+//<0531> 
+
+<0532> none
+//<0532> none
+
+<0533> 
+//<0533> 
+
+<0534> Satomi
+//<0534> 里美
+
+<0535> 「Chuyện này em nhớ giữ bí mật với mọi người nhé.」
+//<0535> 「これはみんなには秘密にしてね」
+{1f63c} 73 // 0535
+
+<0536> Satomi ghé miệng vào tai ― dù rằng đương nhiên cô biết đó không \nphải tai mà là thiết bị thu sóng ― của người bạn thâm niên là robot và thì thầm.
+//<0536> 里美は古い付き合いのロボットの耳に――正確にはそれは耳ではなく、ナビゲーション用のアンテナギミックであることはもちろんわかっていたが――唇を近づけ、囁いた。
+{1f6c6} 73 // 0536
+
+<0537> Satomi
+//<0537> 里美
+
+<0538> 「Nếu chị là con trai... nhất định chị sẽ cầu hôn Yumemi-chan đấy.」
+//<0538> 「わたしが男だったら、きっとゆめみちゃんにプロポーズしてると思うな」
+{1f7d8} 73 // 0538
+
+<0539> Cô duỗi tay phải ra, dịu dàng vuốt tóc Yumemi.
+//<0539> 右手を伸ばし、ゆめみの髪にそっと触れてやる。
+
+<0540> Chắc chỉ là nhầm tưởng thôi.
+//<0540> ただの錯覚かもしれない。
+{1f8ec} 73 // 0540
+
+<0541> Nhưng có cảm giác như cô bé ấy sẽ hạnh phúc khi cô làm vậy.
+//<0541> でも、そうしてやると、彼女は喜んでくれる気がする。
+{1f976} 73 // 0541
+
+<0542> Satomi
+//<0542> 里美
+
+<0543> 「Nhưng mà nhé, dù mình có kết hôn thì chị cũng sẽ không để \nYumemi-chan phải nghỉ việc đâu.」
+//<0543> 「でもね、結婚してもゆめみちゃんに寿退社なんてさせない」
+{1fa88} 73 // 0543
+
+<0544> Satomi
+//<0544> 里美
+
+<0545> 「Đôi ta sẽ mãi làm việc trong cung thiên văn, cùng với nhau.」
+//<0545> 「ふたりでいつまでもプラネタリウムで働くの」
+{1fb9a} 73 // 0545
+
+<0546> Nói đoạn, cô chợt cảm thấy ngượng ngùng.
+//<0546> 言ってしまってから、さすがに照れる。
+
+<0547> Satomi thấu cảm điều ấy từ sâu thẳm con tim.
+//<0547> 里美は心から思った。
+{1fcae} 73 // 0547
+
+<0548> Satomi
+//<0548> 里美
+
+<0549> (Được mà như thế thì tuyệt thật.)
+//<0549> （本当にそうできたら、どんなにいいだろう）
+{1fdc0} 73 // 0549
+
+<0550> Yumemi nhìn chằm chằm vào Satomi bằng vẻ mặt của một thiếu nữ \nngây thơ.
+//<0550> ゆめみはあどけない少女の顔をして、里美のことをまじまじと見ている。
+
+<0551> Sau đó, cô bé trả lời.
+//<0551> そして、こう答えた。
+{1fed4} 73 // 0551
+
+<0552> none
+//<0552> none
+
+<0553> 
+//<0553> 
+
+<0554> none
+//<0554> none
+
+<0555> 
+//<0555> 
+
+<0556> none
+//<0556> none
+
+<0557> 
+//<0557> 
+
+<0558> none
+//<0558> none
+
+<0559> none
+//<0559> none
+
+<0560> 
+//<0560> 
+
+<0561> none
+//<0561> none
+
+<0562> 
+//<0562> 
+
+<0563> 
+//<0563> 
+
+<0564> Yumemi
+//<0564> ゆめみ
+
+<0565> 「Thành thật xin lỗi, tôi đã có hôn ước rồi ạ.」
+//<0565> 「申し訳ありませんが、わたしは既に婚約していますので」
+{20ec7} 73 // 0565
+
+<0566> 
+//<0566> 
+
+<0567> Satomi
+//<0567> 里美
+
+<0568> 「Yumemi-chan...? Em vừa nói gì vậy?」
+//<0568> 「ゆめみちゃん……今、なんて言ったの？」
+{2129b} 73 // 0568
+
+<0569> 
+//<0569> 
+
+<0570> Yumemi
+//<0570> ゆめみ
+
+<0571> 「Vâng, tôi vừa nói, "Thành thật xin lỗi, tôi đã có hôn ước rồi ạ."」
+//<0571> 「はい。申し訳ありませんが、わたしは既に婚約していますので、と申しました」
+{2173f} 73 // 0571
+
+<0572> Cô bé nhắc lại với khuôn mặt không thể nghiêm túc hơn.
+//<0572> これ以上はない真顔中の真顔で、彼女はそう念押しした。
+{217c9} 73 // 0572
+
+<0573> none
+//<0573> none
+
+<0574> 
+//<0574> 
+
+<0575> none
+//<0575> none
+
+<0576> 
+//<0576> 
+
+<0577> none
+//<0577> none
+
+<0578> none
+//<0578> none
+
+<0579> 
+//<0579> 
+
+<0580> none
+//<0580> none
+
+<0581> 
+//<0581> 
+
+<0582> dummy
+//<0582> dummy
+
+<0583> bgm10
+//<0583> bgm10
+
+<0584> bg02
+//<0584> bg02
+
+<0585> bg21b
+//<0585> bg21b
+
+<0586> none
+//<0586> none
+
+<0587> se018
+//<0587> se018
+
+<0588> none
+//<0588> none
+
+<0589> se019
+//<0589> se019
+
+<0590> none
+//<0590> none
+
+<0591> none
+//<0591> none
+
+<0592> se019
+//<0592> se019
+
+<0593> none
+//<0593> none
+
+<0594> none
+//<0594> none
+
+<0595> se021
+//<0595> se021
+
+<0596> se022
+//<0596> se022
+
+<0597> none
+//<0597> none
+
+<0598> se019
+//<0598> se019
+
+<0599> bgm16
+//<0599> bgm16
+
+<0600> none
+//<0600> none
+
+<0601> se019
+//<0601> se019
+
+<0602> none
+//<0602> none
+
+<0603> bgm11
+//<0603> bgm11
+
+<0604> bg02
+//<0604> bg02
+
+<0605> bg20
+//<0605> bg20
+
+<0606> none
+//<0606> none
+
+<0607> none
+//<0607> none
+
+<0608> se023
+//<0608> se023
+
+<0609> none
+//<0609> none
+
+<0610> se024
+//<0610> se024
+
+<0611> se025
+//<0611> se025
+
+<0612> se026
+//<0612> se026
+
+<0613> se027
+//<0613> se027
+
+<0614> bgm06
+//<0614> bgm06
+
+<0615> se028
+//<0615> se028
+
+<0616> se029
+//<0616> se029
+
+<0617> none
+//<0617> none
+
+<0618> none
+//<0618> none
+
+<0619> bgm12
+//<0619> bgm12
+
+<0620> kurob
+//<0620> kurob
+
+<0621> ev01a
+//<0621> ev01a
+
+<0622> none
+//<0622> none
+
+<0623> bg35b
+//<0623> bg35b
+
+<0624> none
+//<0624> none
+
+<0625> ev01b
+//<0625> ev01b
+
+<0626> none
+//<0626> none
+
+<0627> none
+//<0627> none
+
+<0628> kurob
+//<0628> kurob
+
+<0629> kuros
+//<0629> kuros
+
+<0630> none
+//<0630> none
+
+<0631> none
+//<0631> none
+
+<0632> kurob
+//<0632> kurob
+
+<0633> ev01a
+//<0633> ev01a
+
+<0634> none
+//<0634> none
+
+<0635> ev01d
+//<0635> ev01d
+
+<0636> none
+//<0636> none
+
+<0637> ev01f
+//<0637> ev01f
+
+<0638> none
+//<0638> none
+
+<0639> ev01d
+//<0639> ev01d
+
+<0640> none
+//<0640> none
+
+<0641> ev01e
+//<0641> ev01e
+
+<0642> none
+//<0642> none
+
+<0643> ev01d
+//<0643> ev01d
+
+<0644> none
+//<0644> none
+
+<0645> ev01g
+//<0645> ev01g
+
+<0646> none
+//<0646> none
+
+<0647> ev01h
+//<0647> ev01h
+
+<0648> none
+//<0648> none
+
+<0649> ev01e
+//<0649> ev01e
+
+<0650> none
+//<0650> none
+
+<0651> none
+//<0651> none
+
+<0652> bg02
+//<0652> bg02
+
+<0653> bg20
+//<0653> bg20
+
+<0654> none
+//<0654> none
+
+<0655> kuros
+//<0655> kuros
+
+<0656> kuroe
+//<0656> kuroe
+
+<0657> none
+//<0657> none
+
